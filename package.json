@@ -1,0 +1,14 @@
+{
+  "name": "thefhguide-puppeteer",
+  "version": "1.0.0",
+  "description": "puppeteer package to scrape data from old family history guide website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jaromighty",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.5.2"
+  }
+}
