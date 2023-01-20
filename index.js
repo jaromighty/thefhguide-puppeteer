@@ -1,11 +1,9 @@
-'use strict';
-
-const puppeteer = require('puppeteer');
+import puppeteer from "puppeteer";
 
 (async () => {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
-  
+
     await page.goto('https://thefhguide.com/');
 
     const dropdownNames = await page.evaluate(() => {
@@ -14,9 +12,9 @@ const puppeteer = require('puppeteer');
             const name = dropdown.querySelector('.nav-link').innerText.trim();
             return name;
         });
-    }, );
+    },);
 
     console.log(dropdownNames);
-  
+
     await browser.close();
-  })();
+})();
