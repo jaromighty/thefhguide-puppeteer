@@ -6,15 +6,15 @@ import puppeteer from "puppeteer";
 
     await page.goto('https://thefhguide.com/');
 
-    const dropdownNames = await page.evaluate(() => {
+    const dropdownLinks = await page.evaluate(() => {
         const dropdowns = Array.from(document.querySelectorAll('.nav-item.dropdown'));
-        return dropdowns.map(dropdown => {
-            const name = dropdown.querySelector('.nav-link').innerText.trim();
-            return name;
-        });
-    },);
+        return dropdowns.map((dropdown) => ({
+            'name': dropdown.querySelector('.nav-link').innerText.trim(),
+            'links': Array.from(dropdown.querySelectorAll('.dropdown-menu > a')).map(link => ( link.href ))
+        }))
+    });
 
-    console.log(dropdownNames);
+    console.log(dropdownLinks);
 
     await browser.close();
 })();
