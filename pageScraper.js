@@ -1,5 +1,6 @@
 const scraperObject = {
     url: 'https://www.thefhguide.com/project-1-family-tree.html',
+    fs: require('fs'),
     async scraper(browser) {
         let page = await browser.newPage();
         console.log(`Navigating to ${this.url}...`);
@@ -22,7 +23,10 @@ const scraperObject = {
                 console.log(`Navigating to ${link}....`);
                 dataObj['name'] = await newPage.$eval('h3', text => text.textContent);
                 dataObj['choices'] = await newPage.$$eval('.choice', choices => (
-                    choices.map(choice => choice.innerHTML.replace(/(\r\n\t|\n|\r|\t)/gm, ""))
+                    choices.map(choice => ({
+                        'name': choice.previousElementSibling.innerText.split(/(\n)/gm)[2],
+                        'content': choice.innerHTML.replace(/(\r\n\t|\n|\r|\t)/gm, "")
+                    }))
                 ));
                 resolve(dataObj);
                 await newPage.close();
@@ -38,7 +42,13 @@ const scraperObject = {
         }
 
         let data = await scrapeCurrentPage();
-        console.log(data);
+        this.fs.writeFile('./output/familysearch/project1.json', JSON.stringify(data, null, 4), err => {
+            if (err) {
+                console.log(err);
+            }
+
+            console.log('file written successfully!');
+        });
         browser.close();
         return data;
     }
