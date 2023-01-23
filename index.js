@@ -1,20 +1,8 @@
-import puppeteer from "puppeteer";
+const browserObject = require('./browser');
+const scraperController = require('./pageController');
 
-(async () => {
-    const browser = await puppeteer.launch();
-    const page = await browser.newPage();
+//Start the browser and create a browser instance
+let browserInstance = browserObject.startBrowser();
 
-    await page.goto('https://thefhguide.com/');
-
-    const dropdownLinks = await page.evaluate(() => {
-        const dropdowns = Array.from(document.querySelectorAll('.nav-item.dropdown'));
-        return dropdowns.map((dropdown) => ({
-            'name': dropdown.querySelector('.nav-link').innerText.trim(),
-            'links': Array.from(dropdown.querySelectorAll('.dropdown-menu > a')).map(link => ( link.href ))
-        }))
-    });
-
-    console.log(dropdownLinks);
-
-    await browser.close();
-})();
+// Pass the browser instance to the scraper controller
+scraperController(browserInstance)
