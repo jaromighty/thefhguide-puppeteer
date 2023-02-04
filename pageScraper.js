@@ -30,6 +30,7 @@ const scraperObject = {
                     choices.map(choice => ({
                         'name': choice.previousElementSibling.innerText.split(/(\n)/gm)[2],
                         'content': {
+                            'summary': choice.querySelector('.lk + div') ? choice.querySelector('.lk + div').innerHTML.replace(/(\r\n\t|\n|\r|\t)/gm, "") : null,
                             'full': choice.innerHTML.replace(/(\r\n\t|\n|\r|\t)/gm, "")
                         }
                     }))
