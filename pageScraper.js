@@ -25,7 +25,9 @@ const scraperObject = {
                 dataObj['choices'] = await newPage.$$eval('.choice', choices => (
                     choices.map(choice => ({
                         'name': choice.previousElementSibling.innerText.split(/(\n)/gm)[2],
-                        'content': choice.innerHTML.replace(/(\r\n\t|\n|\r|\t)/gm, "")
+                        'content': {
+                            'full': choice.innerHTML.replace(/(\r\n\t|\n|\r|\t)/gm, "")
+                        }
                     }))
                 ));
                 resolve(dataObj);
@@ -42,7 +44,7 @@ const scraperObject = {
         }
 
         let data = await scrapeCurrentPage();
-        this.fs.writeFile('./output/familysearch/project1.json', JSON.stringify(data, null, 4), err => {
+        this.fs.writeFile('./output/familysearch/project2.json', JSON.stringify(data, null, 4), err => {
             if (err) {
                 console.log(err);
             }
