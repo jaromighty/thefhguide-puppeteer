@@ -22,9 +22,7 @@ const scraperObject = {
                 await newPage.goto(link);
                 console.log(`Navigating to ${link}....`);
                 dataObj['name'] = await newPage.$eval('h3', text => text.textContent);
-                let summary = await newPage.$$eval('h3 ~ :not(span, a, div, br, h3)', elements => (
-                    elements.map(el => el.outerHTML)
-                ));
+                let summary = await newPage.$$eval('h3 ~ :not(span, a, div, br, h3)', elements => elements.map(el => el.outerHTML));
                 dataObj['summary'] = summary.toString();
                 dataObj['choices'] = await newPage.$$eval('.choice', choices => (
                     choices.map(choice => ({
