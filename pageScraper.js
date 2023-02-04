@@ -31,6 +31,7 @@ const scraperObject = {
                         'name': choice.previousElementSibling.innerText.split(/(\n)/gm)[2],
                         'content': {
                             'summary': choice.querySelector('.lk + div') ? choice.querySelector('.lk + div').innerHTML.replace(/(\r\n\t|\n|\r|\t)/gm, "") : null,
+                            'images': Array.from(choice.querySelectorAll('img')).map(image => image.src).filter(source => source !== "https://www.thefhguide.com/img/doc.png" && source !== "https://www.thefhguide.com/img/vid.png" && source !== "https://www.thefhguide.com/img/inf.png"),
                             'full': choice.innerHTML.replace(/(\r\n\t|\n|\r|\t)/gm, "")
                         }
                     }))
