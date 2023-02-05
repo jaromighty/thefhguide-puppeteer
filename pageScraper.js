@@ -21,7 +21,11 @@ const scraperObject = {
                 let newPage = await browser.newPage();
                 await newPage.goto(link);
                 console.log(`Navigating to ${link}....`);
-                dataObj['name'] = await newPage.$eval('h3', text => text.textContent);
+                let boldAnchors = await newPage.$$eval('a > b', anchors => anchors.map(anchor => anchor.textContent.split(': ')[1]));
+                dataObj['nav_name'] = boldAnchors[1];
+                let headers = await newPage.$$eval('h3', names => names.map(name => name.textContent.split(': ')[1]));
+                dataObj['name'] = headers[0];
+                dataObj['section_name'] = headers[1];
                 let summary = await newPage.$$eval('h3 ~ :not(span, a, div, br, h3)', elements => elements.map(el => el.outerHTML));
                 dataObj['summary'] = summary.toString();
                 dataObj['choices'] = await newPage.$$eval('.choice', choices => (
