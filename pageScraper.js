@@ -42,7 +42,14 @@ const scraperObject = {
                                 }
                             }).filter(element => element),
                             'images': Array.from(choice.querySelectorAll('img')).map(image => image.src).filter(source => source !== "https://www.thefhguide.com/img/doc.png" && source !== "https://www.thefhguide.com/img/vid.png" && source !== "https://www.thefhguide.com/img/inf.png"),
-                            'full': choice.innerHTML.replace(/(\r\n\t|\n|\r|\t)/gm, "")
+                            'text': Array.from(choice.querySelectorAll('p, ol, h5')).map(element => {
+                                if (
+                                    (element.previousElementSibling && element.previousElementSibling.innerText !== "Resources") &&
+                                    element.innerText !== "Resources"
+                                ) {
+                                    return element.outerHTML.replace(/(\r\n\t|\n|\r|\t)/gm, "");
+                                }
+                            }).filter(element => element)
                         }
                     }))
                 ));
