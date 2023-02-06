@@ -32,7 +32,15 @@ const scraperObject = {
                     choices.map(choice => ({
                         'name': choice.previousElementSibling.innerText.split(/(\n)/gm)[2],
                         'content': {
-                            'summary': choice.querySelectorAll('.lk')[0] && choice.querySelectorAll('.lk')[0].textContent === 'Summary' ? choice.querySelectorAll('.lk + div')[0].innerHTML.replace(/(\r\n\t|\n|\r|\t)/gm, "") : null,
+                            'hidden': Array.from(choice.querySelectorAll('.lk')).map(element => {
+                                if (element.nextElementSibling?.tagName === 'DIV') {
+                                    let key = element.textContent.toLowerCase();
+                                    let value = element.nextElementSibling.innerHTML.replace(/(\r\n\t|\n|\r|\t)/gm, "");
+                                    return {
+                                        [key]: value
+                                    };
+                                }
+                            }).filter(element => element),
                             'images': Array.from(choice.querySelectorAll('img')).map(image => image.src).filter(source => source !== "https://www.thefhguide.com/img/doc.png" && source !== "https://www.thefhguide.com/img/vid.png" && source !== "https://www.thefhguide.com/img/inf.png"),
                             'full': choice.innerHTML.replace(/(\r\n\t|\n|\r|\t)/gm, "")
                         }
