@@ -44,8 +44,20 @@ const scraperObject = {
                             'images': Array.from(choice.querySelectorAll('img')).map(image => image.src).filter(source => source !== "https://www.thefhguide.com/img/doc.png" && source !== "https://www.thefhguide.com/img/vid.png" && source !== "https://www.thefhguide.com/img/inf.png"),
                             'text': Array.from(choice.querySelectorAll('p, ol, h5')).map(element => {
                                 if (
-                                    (element.previousElementSibling && element.previousElementSibling.innerText !== "Resources") &&
-                                    element.innerText !== "Resources"
+                                    (
+                                        element.previousElementSibling &&
+                                        element.previousElementSibling.innerText !== "Resources" &&
+                                        element.previousElementSibling.innerText !== "Review"
+                                    ) &&
+                                    (element.innerText !== "Resources" && element.innerText !== "Review")
+                                ) {
+                                    return element.outerHTML.replace(/(\r\n\t|\n|\r|\t)/gm, "");
+                                }
+                            }).filter(element => element),
+                            'resources': Array.from(choice.querySelectorAll('ol')).map(element => {
+                                if (
+                                    element.previousElementSibling &&
+                                    (element.previousElementSibling.innerText === "Resources" || element.previousElementSibling.innerText === "Review")
                                 ) {
                                     return element.outerHTML.replace(/(\r\n\t|\n|\r|\t)/gm, "");
                                 }
