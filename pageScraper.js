@@ -59,7 +59,16 @@ const scraperObject = {
                                     element.previousElementSibling &&
                                     (element.previousElementSibling.innerText === "Resources" || element.previousElementSibling.innerText === "Review")
                                 ) {
-                                    return element.outerHTML.replace(/(\r\n\t|\n|\r|\t)/gm, "");
+                                    return Array.from(element.querySelectorAll(':scope > li')).map(listItem => ({
+                                        'description': listItem.innerText.split('☆')[0].replace(/(\r\n\t|\n|\r|\t)/gm, ""),
+                                        'links': Array.from(listItem.querySelectorAll(':scope > a')).map(anchor => {
+                                            return {
+                                                'link': anchor.href,
+                                                'text': anchor.innerText.trim(),
+                                                'type': anchor.querySelector('img')?.src.includes('doc') ? 'document' : 'video',
+                                            }
+                                        }).filter(anchor => anchor.text)
+                                    }));
                                 }
                             }).filter(element => element)
                         }
@@ -79,7 +88,7 @@ const scraperObject = {
         }
 
         let data = await scrapeCurrentPage();
-        this.fs.writeFile('./output/familysearch/project2.json', JSON.stringify(data, null, 4), err => {
+        this.fs.writeFile('./output/familysearch/project1.json', JSON.stringify(data, null, 4), err => {
             if (err) {
                 console.log(err);
             }
