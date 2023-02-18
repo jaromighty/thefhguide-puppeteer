@@ -1,0 +1,540 @@
+[
+    {
+        "nav_name": "Research",
+        "name": "Research and Records",
+        "section_name": "Learn about North Carolina research and records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Get started with research for your North Carolina ancestors.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Learn successful research strategies for North Carolina ancestors.</li><li><span class=\"g\">Record Finder</span>: Use the Record Selection Table to determine priorities for North Carolina research.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-north_carolina-over.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://pixabay.com/en/lighthouse-bodie-island-668229/\" target=\"_blank\"> <img src=\"img/x-north_carolina-over.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; border:1px solid #000; padding:0px;\"></a>    <li><span class=\"g\">Introduction</span>: Learn about basic North Carolina research strategies. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/North_Carolina_Research_Tips_and_Strategies\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Basic North Carolina Research Tips and Strategies</span></a></li><br><li>Get an overview of North Carolina research in this video. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/help/helpcenter/lessons/united-states-research-mid-south-region-north-carolina\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">FS—North Carolina Overview—2:30</span></a></li><br><li><span class=\"g\">Ancestry</span>: Explore resources for North Carolina research on Ancestry. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://search.ancestry.com/Places/US/North_ Carolina/Default.aspx\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—North Carolina Resources</span></a><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestrycdn.com/support/us/2016/11/ncarolina.pdf\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—North Carolina State Research Guide, 5 pgs.</span></a></li><br><li><span class=\"g\">Record Finder</span>: Use the North Carolina Record Selection Table to decide on records to search. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/North_Carolina_Record_Selection_Table\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—North Carolina Record Selection Table</span></a></li><br><h5>Additional Records</h5><ol><li>Explore a variety of records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://ldsgenealogy.com/NC/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy</a> site. </li><li>Explore historical photo sites on <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/north-carolina-online-historical-photos-research\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a>. </li><li>Explore resources for school yearbooks on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://theancestorhunt.com/blog/free-north-carolina-high-school-and-college-yearbooks-online/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site. </li><li>Learn about research in colonial North Carolina. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Colonial_North_Carolina\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Colonial North Carolina</span></a></li><br></ol><br><h5>Ethnic</h5><ol><li><span class=\"g\">African American</span>: Learn about African Americans in North Carolina in these FamilySearch Wiki articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/African_American_Resources_for_North_Carolina\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: African American Resources for North Carolina</span></a> <br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/North_Carolina_Minorities\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: North Carolina Minorities</span></a></li><br><li>Learn more about African American records. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://accessgenealogy.com/black-genealogy/north-carolina/north-carolina-african-american-records.htm\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AG—North Carolina African American Records</span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://genealogycenter.info/africanamerican/results_afram.php?subject=NC\" target=\"_blank\">African American Gateway</a> for North Carolina. </li><li><span class=\"g\">Native American</span>: Learn about American Indians in North Carolina in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Indians_of_North_Carolina\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Indians of North Carolina</span></a></li><br></ol><br></ol>",
+                        "<h5>Additional Records</h5>",
+                        "<ol><li>Explore a variety of records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://ldsgenealogy.com/NC/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy</a> site. </li><li>Explore historical photo sites on <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/north-carolina-online-historical-photos-research\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a>. </li><li>Explore resources for school yearbooks on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://theancestorhunt.com/blog/free-north-carolina-high-school-and-college-yearbooks-online/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site. </li><li>Learn about research in colonial North Carolina. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Colonial_North_Carolina\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Colonial North Carolina</span></a></li><br></ol>",
+                        "<h5>Ethnic</h5>",
+                        "<ol><li><span class=\"g\">African American</span>: Learn about African Americans in North Carolina in these FamilySearch Wiki articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/African_American_Resources_for_North_Carolina\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: African American Resources for North Carolina</span></a> <br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/North_Carolina_Minorities\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: North Carolina Minorities</span></a></li><br><li>Learn more about African American records. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://accessgenealogy.com/black-genealogy/north-carolina/north-carolina-african-american-records.htm\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AG—North Carolina African American Records</span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://genealogycenter.info/africanamerican/results_afram.php?subject=NC\" target=\"_blank\">African American Gateway</a> for North Carolina. </li><li><span class=\"g\">Native American</span>: Learn about American Indians in North Carolina in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Indians_of_North_Carolina\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Indians of North Carolina</span></a></li><br></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Learn about North Carolina state history.",
+                "content": {
+                    "hidden": [],
+                    "images": [
+                        "https://thefhguide.com/img/x-north-carolina-his.jpeg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://en.wikipedia.org/wiki/North_Carolina#/media/File:North-Carolina-Museum-of-History-20080321.jpeg\" target=\"_blank\"> <img src=\"img/x-north-carolina-his.jpeg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; border:1px solid #000; padding:0px;\"></a>    <li>Explore North Carolina historical resources on FamilySearch. <br><br> <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/North_Carolina_History\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—North Carolina History</span></a></li><br><li>Explore North Carolina history on Wikipedia. <br><br> <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://en.wikipedia.org/wiki/North_Carolina#History\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">History</span></a><br> <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://en.wikipedia.org/wiki/Category:History_of_North_Carolina\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">History of North Carolina</span></a> </li><br><li>Learn about North Carolina history on InfoPlease.com.<br><br> <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.infoplease.com/encyclopedia/places/north-america/us/north-carolina/history\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">North Carolina History</span></a></li><br></ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Archives and Libraries",
+        "name": "Archives and Libraries",
+        "section_name": "Learn about North Carolina archives and libraries.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about North Carolina archives and libraries.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Explore statewide and regional collections.</li><li>Explore books and photos that can be helpful in your research.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for archives and libraries. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-north_carolina-lib.JPG"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://commons.wikimedia.org/wiki/File:State_Library_-_North_Carolina_State_Capitol_-_DSC05919.JPG\" target=\"_blank\"> <img src=\"img/x-north_carolina-lib.JPG\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px;\"></a> <li>Learn about North Carolina archives and libraries in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/North_Carolina_Archives_and_Libraries\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: North Carolina Archives and Libraries</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://genealogysstar.blogspot.com/2018/12/North_Carolina-state-archives-wonderful-local_13.html\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">North_Carolina State Archives: Wonderful Local Sources for Genealogical Research</span></a></li><br><li>Learn more about North Carolina archives for research. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.youtube.com/watch?v=y5KSkIQ9cu8\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">FS—Wiki: North Carolina Archives—72:10</span></a><br><br><iframe width=\"300\" height=\"200\" src=\"https://www.youtube.com/embed/y5KSkIQ9cu8?rel=0\" frameallow=\"autoplay; encrypted-media\" allowfullscreen=\"\"></iframe><br></li><br><li>Explore the <a class=\"lk\" href=\"http://www.statearchives.us/north_carolina.htm\" target=\"_blank\">State Archives and Libraries site</a> for North Carolina.</li><li>Explore the <a class=\"lk\" href=\"https://www.digitalnc.org/\" target=\"_blank\">North Carolina Digital Heritage Center</a> for North Carolina.</li><li>Explore the <a class=\"lk\" href=\"http://www.archives.ncdcr.gov/\" target=\"_blank\">North Carolina State Archives site</a>.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.rootsweb.ancestry.com/~bwo/ncar.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Books We Own site</a> for North Carolina genealogy publications. Volunteers may be available for lookup services.</li><li>Search for <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://books.familysearch.org/primo_library/libweb/action/search.do?fn=search&amp;ct=search&amp;mode=Basic&amp;tab=default_tab&amp;indx=1&amp;dum=true&amp;srt=rank&amp;vid=FHD_PUBLIC&amp;frbg=&amp;vl%28freeText0%29=north-carolina\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">free online books on North Carolina research</a> on the FamilySearch site.</li><li><span class=\"g\">Photos</span>: Explore historical photo resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/north-carolina-online-historical-photos-research\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Explore city and county directories to find North Carolina ancestors.</li><li>Discover the different types of information in directories, such as streets, churches, historical info, etc.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for city directories. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-north-carolina-city.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://pixabay.com/photos/mums-new-bern-north-carolina-fall-1004189/\" target=\"_blank\"> <img src=\"img/x-north-carolina-city.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:400px; border:1px solid #000; padding:0px;\"></a><li>Learn about North Carolina city directories in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/North_Carolina_Directories\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: North Carolina Directories</span></a></li><br><li><span class=\"g\">Sites</span>: Explore <a class=\"lk\" href=\"https://theancestorhunt.com/blog/free-online-north-carolina-city-directories/\" target=\"_blank\">North Carolina city directories</a> on the Ancestor Hunt site.</li><li>Find out more about city directories in this research guide from Ancestry. <br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestrycdn.com/legacy/offer/learning-center/2012/city_directories_short.pdf\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Six Things to Find—3 pgs.</span></a></li><br><li>Explore North Carolina city directories on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://search.ancestry.com/search/db.aspx?dbid=2469\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestry site</a>.</li><li>Explore North Carolina <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://sites.google.com/site/onlinedirectorysite/Home/usa/nc\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">historical directories</a> by county.</li><li>Explore additional links for North Carolina city directories on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/NC/City-Directories.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Vital and Census Records",
+        "name": "Vital and Census Records",
+        "section_name": "Learn about North Carolina vital and census records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about North Carolina vital records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find online resources for vital records.</li><li>Learn the history of vital records in the state of North Carolina.</li><li>Learn about alternates for vital records in North Carolina.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for vital records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-north_carolina-vit.JPG"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://commons.wikimedia.org/wiki/File:Johnston_County,_NC_courthouse_from_NE_2.JPG\" target=\"_blank\"> <img src=\"img/x-north_carolina-vit.JPG\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 8px; margin-bottom: 16px; max-width:400px; border:1px solid #000; padding:0px;\"></a><li>Learn about North Carolina vital records in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/North_Carolina_Birth,_Marriage,_and_Death_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: North Carolina Vital Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/North_Carolina_Vital_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: North_Carolina Vital Records</span></a></li><br><li>Explore links for vital records on the <a class=\"lk\" href=\"http://vitalrecords.nc.gov/\" target=\"_blank\">North Carolina Public Health site</a>.</li><li>Search for online North Carolina <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.vitalrecordsus.com/north_carolina-vital-records.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">vital records</a> and find addresses for state offices to write to for records.</li><li>Explore North Carolina birth, marriage, and death records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.accessgenealogy.com/north-carolina/north_carolina-vital-records.htm#content\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">AccessGenealogy site.</a></li><li>Explore additional links for North Carolina vital records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-nc-genealogy/vr/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium site</a> and the <a class=\"lk\" href=\"https://www.genealogybranches.com/northcarolina.html\" target=\"_blank\">Genealogy Branches site</a>.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find birth records for North Carolina ancestors.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for birth and adoption records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-north-carolina-birth.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://www.familysearch.org/wiki/en/File:North_Carolina_Davidson_County_Birth_Records_004127782_00097.jpg\" target=\"_blank\"> <img src=\"img/x-north-carolina-birth.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000; padding:0px;\"></a><li>Learn how to find North Carolina birth records in this article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/How_to_Find_North_Carolina_Birth_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: How to Find North Carolina Birth Records</span></a></li><br><li>Explore additional links for North Carolina birth records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/NC/Birth-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Explore North Carolina marriage and divorce records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find marriage and divorce records for North Carolina ancestors.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for marriage and divorce records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-north-carolina-marr.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://www.familysearch.org/wiki/en/File:NC_starter.jpg\" target=\"_blank\"> <img src=\"img/x-north-carolina-marr.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000; padding:0px;\"></a><li>Learn how to find <a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/How_to_Find_North_Carolina_Marriage_Records\" target=\"_blank\">North Carolina marriage records</a> with FamilySearch.</li><li>Explore links for <a class=\"lk\" href=\"http://www.idreamof.com/marriage/nc.html\" target=\"_blank\">North Carolina marriage records</a>.</li><li>Explore additional links for North Carolina marriage records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/NC/Marriage-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Learn about North Carolina divorce records in this article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/North_Carolina_Divorce_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: North Carolina Divorce Records</span></a></li><br></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Explore North Carolina obituaries and death records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find obituaries for North Carolina ancestors.</li><li>Find death records and death indexes for North Carolina ancestors.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for obituary and death records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-north-carolina-death.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"img/x-north-carolina-death.jpg\" target=\"_blank\"> <img src=\"img/x-north-carolina-death.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000;\"></a><li>Learn about North Carolina obituaries in this article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/North_Carolina_Obituaries\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: North Carolina Obituaries</span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://obituarieshelp.org/north_carolina_newspaper_obituaries.html\" target=\"_blank\">ObituariesHelp site</a> for North Carolina obituaries.</li><li>Explore <a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/free-north-carolina-obituaries-and-obituary-index-links\" target=\"_blank\">The Ancestor Hunt</a> for obituaries.</li><li>Search for obituaries by county on the <a class=\"lk\" href=\"https://www.newspaperobituaries.net/newyork/index.html\" target=\"_blank\">Newspaperobituaries.net site</a>.</li></ol>",
+                        "<h5>North Carolina Death Records</h5>",
+                        "<ol><li>Find additional resources for North Carolina obituaries on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-nc-genealogy/obits/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium site</a>.</li><li>Learn how to find North Carolina death records in this article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/How_to_Find_North_Carolina_Death_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: How to Find North Carolina Death Records</span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://ancestorsatrest.com/north_carolina.shtml\" target=\"_blank\">Ancestors at Rest site</a> for North Carolina death records.</li><li>Explore North Carolina <a class=\"lk\" href=\"http://www.deathindexes.com/north_carolina/index.html\" target=\"_blank\">death records, indexes, and obituaries</a>.</li><li>Explore additional links for North Carolina death records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/NC/Death-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Explore North Carolina census and voter records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Explore state and county census records for North Carolina ancestors.</li><li>Find voter registration records in North Carolina.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for census and voter records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/4-north-carolina.png"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/4-north-carolina.png\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000; padding:0px;\"><li>Get an overview of North Carolina censuses in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/North_Carolina_Census\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—North Carolina Census</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Census_Records_for_North_Carolina\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—North_Carolina Census Records</span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://www.myfreecensus.com/north_carolina-census-records.htm\" target=\"_blank\">MyFreeCensus site</a> for North Carolina state and county census records.</li><li>Explore additional links for North Carolina census records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/NC/Census-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore North Carolina census records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.accessgenealogy.com/north-carolina/north-carolina-census-records.htm#content\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">AccessGenealogy site.</a></li><li>Learn about North Carolina voting registers in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/North_Carolina_Voting_Registers\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—North Carolina Voting Registers</span></a></li><br></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Church and Cemetery Records",
+        "name": "Church and Census Records",
+        "section_name": "Learn about North Carolina church and cemetery records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about North Carolina church records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find North Carolina church information by denomination.</li><li>Search North Carolina church records at the county level.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for church records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-north-carolina-church.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://www.goodfreephotos.com/united-states/north-carolina/duke/cathedral-door-archway-at-duke-chapel-durham-north-carolina.jpg.php\" target=\"_blank\"> <img src=\"img/x-north-carolina-church.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000;\"></a><li>Get an overview of North Carolina church records in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/North_Carolina_Church_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—North Carolina Church Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/North_Carolina_Church_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—North_Carolina Church Records</span></a></li><br><li>Explore additional links for North Carolina church records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/NC/Church-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore church record resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.theancestorhunt.com/blog/free-north-carolina-online-church-records\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find cemetery records for North Carolina ancestors from a number of sources.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for cemetery records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-north_carolina-cem.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://commons.wikimedia.org/wiki/File:Fort_Defiance_Cemetery-27527.jpg\" target=\"_blank\"> <img src=\"img/x-north_carolina-cem.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px;\"></a>  <li>Explore North Carolina cemetery records in this article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/North_Carolina_Cemeteries\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—North Carolina Cemetery Records</span></a> </li><br><li>Browse the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.interment.net/us/nc/index.htm\" target=\"_blank\"><img src=\"../img/d.png\" width=\"2\">Interment.net site</a> for North Carolina cemetery records.</li><li>Search for <a class=\"lk\" href=\"http://www.idreamof.com/cemetery/nc.html\" target=\"_blank\">North Carolina cemetery records</a> online.</li><li>Explore North Carolina cemetery records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.accessgenealogy.com/cemetery/north-carolina-cemetery-records.htm#content\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">AccessGenealogy site.</a></li><li>Explore additional links for North Carolina cemetery records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/NC/Cemetery-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://usgwtombstones.org/north_carolina/north carolina.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Tombstone Transcription Project</a> on the U.S. GenWeb site.</li><li>Search the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.findagrave.com/cemetery-browse/USA/North-Carolina?id=state_29\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Find A Grave site</a> for cemetery records.</li><li>Search the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://billiongraves.com/site-map?country=United+States&amp;state=North+Carolina\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">BillionGraves site</a> for cemetery records.</li><li>See additional cemetery resources on the North Carolina <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-nc-genealogy/cem\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium site</a>.</li><li>Explore <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://africanamericancemeteries.com/nc/\" target=\"_blank\"><img src=\"../img/d.png\" width=\"2\">African American cemetery records</a> in North Carolina.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Emigration and Immigration",
+        "name": "Emigration and Immigration",
+        "section_name": "Learn about North Carolina emigration and immigration.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about North Carolina emigration and immigration.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Learn about the history of, and locations for, North Carolina immigration.</li><li>Find migration and travel routes for North Carolina ancestors.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/4-north-carolina.png"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/4-north-carolina.png\" alt=\"\" width=\"300px\" style=\"float:right; margin-left: 16px;\"><li>Learn about North Carolina emigration and immigration in this FamilySearch Wiki article. <br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/North_Carolina_Emigration_and_Immigration\" target=\"_blank\"><br><img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: North Carolina Emigration and Immigration</span></a></li><br><li>Learn about North Carolina migration routes in this FamilySearch Wiki article. <br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/North_Carolina_Migration\" target=\"_blank\"><br><img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: North Carolina Migration</span></a></li><br><li>Explore additional links for North Carolina immigration records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/NC/Immigration-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore naturalization resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.theancestorhunt.com/blog/free-morth-carolina-online-naturalization-records\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Military Records",
+        "name": "Military Records",
+        "section_name": "Learn about North Carolina military records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about North Carolina military records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find online resources for North Carolina ancestors in the military.</li><li>Search for North Carolina military records by war or conflict.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for military records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/y-us-flag.jpg"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/y-us-flag.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; border:1px solid #000; padding:0px;\"><li>Learn about North Carolina military records in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/North_Carolina_Military_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: North Carolina Military Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/North_Carolina_Military_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: North_Carolina Military Records</span></a></li><br><li>Learn about North Carolina military records in this Ancestry Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/North_Carolina_Military_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC: North Carolina Military Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/North_Carolina_Military_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: North_Carolina Military Records</span></a></li><br><li>Explore North Carolina military records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.accessgenealogy.com/north-carolina-genealogy#content\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">AccessGenealogy site</a> (scroll down).</li><li>Explore North Carolina military records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-nc-genealogy/mil/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium site</a>.</li><li>Explore additional links for North Carolina military records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/NC/Military-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore North Carolina military records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://genealogytrails.com/ncar/militaryindex.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Genealogy Trails site</a>.</li><li>Explore <a class=\"lk\" href=\"http://www.cyndislist.com/us/nc/military/\" target=\"_blank\">North Carolina military resources</a> on Cyndi's List.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Probate, Land and Court",
+        "name": "Probate, Land and Court",
+        "section_name": "Learn about North Carolina probate, land, and court records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about North Carolina probate and land records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find probate records at the county level.</li><li>Learn about the history of land and property claims in North Carolina.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles or videos in this Choice, write down key learnings for probate and court records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-north-carolina-land.jpg"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/x-north-carolina-land.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; border:1px solid #000;\"><li>Learn about North Carolina probate records in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/North_Carolina_Probate_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: North Carolina Probate Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php?title=North_Carolina_Probate_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: North_Carolina Probate Records</span></a></li><br><li>Explore additional links for North Carolina probate records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/NC/Probate-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore probate records and wills on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.theancestorhunt.com/blog/free-north-carolina-probate-records-and-wills\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li><li>Learn about North Carolina land and property records. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/North_Carolina_Land_and_Property\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—North Carolina Land and Property Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/North_Carolina_Land_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—North_Carolina Land Records</span></a></li><br><li>Explore additional links for North Carolina land records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/NC/Land-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore North Carolina land grant records on the <a class=\"lk\" href=\"http://nclandgrants.com\" target=\"_blank\">North Carolina Land Grants site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Learn about the history of court records in North Carolina and where to find them.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-north-carolina-court.jpg"
+                    ],
+                    "text": [
+                        "<ol><a class=\"lk\" href=\"https://en.wikipedia.org/wiki/Madison_County_Courthouse_(North_Carolina)#/media/File:Madison_County_North_Carolina_Courthouse.jpg\" target=\"_blank\"> <img src=\"img/x-north-carolina-court.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:400px; border:1px solid #000; padding:0px;\"></a><li>Learn about North Carolina court records in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/North_Carolina_Court_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: North Carolina Court Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/North_Carolina_Court_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"><span class=\"re\">AC—Wiki: North_Carolina Court Records</span></a></li><li>Explore records for district and circuit courts on the <a class=\"lk\" href=\"https://www.archives.gov/atlanta/\" target=\"_blank\">National Archives site</a>.</li><li>Explore school record resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.theancestorhunt.com/blog/free-north-carolina-online-school-records\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li><li>Explore resources for orphans on the <a class=\"lk\" href=\"https://orphanfinder.com/state-search/north-carolina/\" target=\"_blank\">OrphanFinder</a> site.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Maps and Gazetteers",
+        "name": "Maps and Gazetteers",
+        "section_name": "Learn about North Carolina maps and gazetteers.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about North Carolina maps and gazetteers.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Learn about the history of North Carolina maps.</li><li>Find out how North Carolina gazetteers can help you in your research.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-north_carolina-map.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://commons.wikimedia.org/wiki/File:1874_Gray_Map_of_North_Carolina_-_Geographicus_-_NorthCarolina-gray-1874.jpg\" target=\"_blank\"> <img src=\"img/x-north_carolina-map.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px;\"></a><li>Learn about North Carolina maps in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/North_Carolina_Maps\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: North Carolina Maps</span></a><br><span class=\"star notranslate\">☆</span><a href=\"https://wiki.rootsweb.com/wiki/index.php/North_Carolina_Maps\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: North_Carolina Maps</span></a>  </li><br><li>Learn about North Carolina gazetteers in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/North_Carolina_Gazetteers\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: North Carolina Gazetteers</span></a></li><br><li>Access interactive maps and atlases of North Carolina on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.mapofus.org/NorthCarolina/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">MapsofUS site</a>.</li><li>Find North Carolina towns and communities on the <a class=\"lk\" href=\"https://roadsidethoughts.com/nc/index-a.htm\" target=\"_blank\">RoadsideThoughts site</a>.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for maps and gazetteers. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.davidrumsey.com/luna/servlet/view/search?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&amp;q=north_carolina&amp;search=Go\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">David Rumsey collection</a> of North Carolina maps.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.lib.utexas.edu/maps/north_carolina.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Perry-Castaneda site</a> for maps of North Carolina.</li><li>Explore historical maps on the <a class=\"lk\" href=\"https://web.lib.unc.edu/nc-maps/\" target=\"_blank\">University of North Carolina site</a>.</li><li>Explore <a class=\"lk\" href=\"http://www.historicmapworks.com/Browse/United_States/North_Carolina/\" target=\"_blank\">historical North Carolina maps</a> on the Historic Map Works site.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.oldmapsonline.org/en/North_Carolina\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Old Maps Online site</a> for North Carolina maps.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://commons.wikimedia.org/wiki/Category:Old_maps_of_North_Carolina\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Old Maps of North Carolina</a> on the Wikipedia site.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Newspapers",
+        "name": "Newspapers",
+        "section_name": "Learn about North Carolina newspapers.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about North Carolina newspapers.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Discover the history of North Carolina newspapers.</li><li>Learn more about how to use North Carolina periodical and manuscripts.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        }
+                    ],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Learn about North Carolina newspapers in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/North_Carolina_Newspapers\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: North Carolina Newspapers</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/North_Carolina_Periodicals,_Newspapers,_and_Manuscript_Collections\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: North_Carolina Periodicals, Newspapers, and Manuscripts</span></a></li><br><li>Learn about researching historical North Carolian newspapers in this tutorial from The Ancestor Hunt. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/research-free-north-carolina-historical-newspapers\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">Research Free Historical North Carolina Newspapers—11:11</span></a></li><br></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find research clues in the Library of Congress historical newspaper collection.</li><li>Search North Carolina online newspaper sites.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for newspaper records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/y-newspaper.png"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/y-newspaper.png\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; border:1px solid #000; padding:0px;\"><li>Search for <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://chroniclingamerica.loc.gov/search/titles/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">North Carolina  historical newspapers</a> in the Library of Congress collection.</li><li>Find links to <a class=\"lk\" href=\"https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives#North_Carolina\" target=\"_blank\"> North Carolina newspapers</a> on the Wikipedia site.</li> <li>Search the <a class=\"lk\" href=\"https://sites.google.com/site/onlinenewspapersite/Home/usa/nc\" target=\"_blank\">North Carolina Online Historical Newspapers</a> site.</li><li>Explore North Carolina newspaper resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/north-carolina-online-historical-newspapers-summary\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li><li>See additional North Carolina newspaper resources on the <a class=\"lk\" href=\"http://www.linkpendium.com/all-nc-genealogy/news/\" target=\"_blank\">Linkpendium</a> site.</li><li>Explore additional links for North Carolina newspapers and obituaries records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/NC/Newspapers-and-Obituaries.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Websites",
+        "name": "Websites",
+        "section_name": "Explore additional websites for research.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "There are a number of websites with valuable resources for North Carolina research.",
+                "content": {
+                    "hidden": [],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Explore links in <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.cyndislist.com/us/nc/general/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Cyndi's List</a>.</li><li>Explore links in <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-nc-genealogy/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium</a>.</li><li>Explore links in <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.genealogylinks.net/usa/North_Carolina/index.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Genealogylinks.net</a>.</li> <li>Explore links in <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/NC/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy.com</a>.</li> </ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Search Records",
+        "name": "Search Records",
+        "section_name": "Search records from North Carolina.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Use the QUIKLinks (lightning bolts) or North Carolina County links (bottom) to quickly search common record collections for North Carolina.",
+                "content": {
+                    "hidden": [],
+                    "images": [],
+                    "text": [
+                        "<p><i>Note</i> : To search records on these sites, you must be registered on the site or be at a FamilySearch Center.</p>",
+                        "<ol><li>In the QUIKLinks, click the link for FamilySearch, Ancestry, Findmypast, or MyHeritage to view the corresponding record collection.</li><li>Scroll down near the bottom of this page to see available county records. Click the name of the county for FamilySearch, or A for Ancestry, or L for Linkpendium.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Explore additional record collections.",
+                "content": {
+                    "hidden": [],
+                    "images": [],
+                    "text": [
+                        "<ol><li>In FamilySearch, explore the <a class=\"lk\" href=\"https://familysearch.org/wiki/en/North_Carolina_Online_Genealogy_Records\">North Carolina Online Genealogy Records page</a> for a variety of record collections.</li><li>In each program (FamilySearch, Ancestry, or Findmypast), explore additional record collections besides the ones listed in QUIKLinks.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Get Help",
+        "name": "Get Help",
+        "section_name": "Get help with your North Carolina research.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Use Facebook pages to get answers to your questions.",
+                "content": {
+                    "hidden": [],
+                    "images": [
+                        "https://thefhguide.com/img/fh-help3.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"img/fh-help3.jpg\" target=\"_blank\"> <img src=\"img/fh-help3.jpg\" alt=\"\" width=\"350px\" style=\"float:right; margin-top: 16px; margin-left: 16px; border:1px solid #000; padding:0px;\"></a>  <li>Visit the <a class=\"lk\" href=\"https://www.facebook.com/groups/153280238075934/\" target=\"_blank\">North Carolina Genealogy Network page</a> on Facebook.</li><li>Visit the <a class=\"lk\" href=\"https://www.facebook.com/groups/NorthCarolinaGenealogyJustAsk\" target=\"_blank\">North Carolina Genealogy - Just Ask! page</a> on Facebook.</li><li>Visit the <a class=\"lk\" href=\"https://www.facebook.com/ncgenealogy/\" target=\"_blank\">North Carolina Genealogical Society page</a> on Facebook.</li><li>Visit the <a class=\"lk\" href=\"https://www.facebook.com/groups/804695219582639/\" target=\"_blank\">U.S. South Genealogy Research page</a> on Facebook.</li><li>See the <a class=\"lk\" href=\"http://socialmediagenealogy.com/genealogy-on-facebook-list/\" target=\"_blank\">Genealogy on Facebook list</a> of Facebook groups dedicated to helping with research for North Carolina.</li></ol>",
+                        "<p style=\"margin-left:44px\">Regional Groups</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Join the <a class=\"lk\" href=\"http://www.rootschat.com/forum/usa/\" target=\"_blank\">RootsChat forum</a> and post questions about North Carolina research.</li><li>Explore the <a class=\"lk\" href=\"http://www.cyndislist.com/us/nc/social/\" target=\"_blank\"> North Carolina research mailing lists</a> on Cyndi's List.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://community.familysearch.org/s/group/0F93A0000009aebSAA/north-carolina-research\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">FamilySearch community</a> for help with North Carolina research.</li><li>Use the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.ancestry.com/boards/localities.northam.usa.states.north carolina/mb.ashx\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestry message boards</a> to read or post questions about North Carolina research.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Learn about North Carolina genealogy societies.",
+                "content": {
+                    "hidden": [
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Proficient: Make a list of Facebook groups, mailing lists, and genealogy societies of interest, and then join or subscribe to them. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Learn about genealogy societies in North Carolina in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/North_Carolina_Societies\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: North Carolina Societies</span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://www.ncgenealogy.org/\" target=\"_blank\">North Carolina Genealogical Society</a> site.</li><li>Explore <a class=\"lk\" href=\"http://www.cyndislist.com/us/nc/societies/\" target=\"_blank\">North Carolina genealogy society sites</a> on Cyndi's List.</li><li>Get help at a <a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Category:North_Carolina_Family_History_Centers\" target=\"_blank\">family history center in North Carolina</a>.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    }
+]

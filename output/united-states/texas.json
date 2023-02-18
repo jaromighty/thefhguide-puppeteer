@@ -1,0 +1,544 @@
+[
+    {
+        "nav_name": "Research",
+        "name": "Research and Records",
+        "section_name": "Learn about Texas research and records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Get started with research for your Texas ancestors.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Learn successful research strategies for Texas ancestors.</li><li><span class=\"g\">Record Finder</span>: Use the Record Selection Table to determine priorities for Texas research.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-texas-over.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://pixabay.com/en/alamo-san-antonio-texas-mission-360829/\" target=\"_blank\"> <img src=\"img/x-texas-over.jpg\" alt=\"\" width=\"400px\" style=\"float:right; border:1px solid #000; padding:0px;  margin-top: 8px; margin-left: 16px\"></a>   <li><span class=\"g\">Introduction</span>: Learn about basic Texas research strategies. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Texas_Research_Tips_and_Strategies\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Basic Texas Research Tips and Strategies</span></a></li><br><li>Learn about Texas genealogy resources. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.youtube.com/watch?v=qg5WnRHtFl0\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AC—Researching Your Relatives From the Lone Star State—28:52</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.archives.com/experts/coffin-amy/texas-genealogy-resources.html\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AR—Family History Research in Texas</span></a></li><br><li>Follow this research study for Texas ancestors, from 1880 to the present. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Step-by-Step_Texas_Research,_1880-Present\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Step-by-Step Texas Research, 1880-Present</span></a></li><br><li><span class=\"g\">Ancestry</span>: Explore resources for Texas research. <br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestrycdn.com/support/us/2016/11/texas.pdf\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Texas State Research Guide, 5 pgs.</span></a></li><br><li><span class=\"g\">Record Finder</span>: Use the Texas Record Finder to decide on records to search. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/en/wiki/Texas_Record_Finder\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Texas Record Finder</span></a></li><br><br><h5>Additional Records</h5><ol><li>Explore a variety of records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://ldsgenealogy.com/TX/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy</a> site. </li><li>Explore historical photo sites on <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/texas-online-historical-photos-research\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a>.</li><li>Explore resources for school yearbooks on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://theancestorhunt.com/blog/free-texas-high-school-and-college-yearbooks-online/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li><li>Learn about colonial records in Texas. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Colonial_Records_of_Texas\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Colonial Records of Texas</span></a></li><br></ol><br><h5>Ethnic</h5><ol><li><span class=\"g\">African American</span>: Learn about African Americans in Texas in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/African_American_Resources_for_Texas\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: African American Resources for Texas</span></a></li><br><li>Learn more about African American records. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://accessgenealogy.com/black/texas-african-american-genealogy.htm\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AG—Texas African American Records</span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://genealogycenter.info/africanamerican/results_afram.php?subject=TX\" target=\"_blank\">African American Gateway</a> for Texas.</li><li><span class=\"g\">Native American</span>: Learn about American Indians in Texas in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Indians_of_Texas\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Indians of Texas</span></a></li><br></ol><br></ol>",
+                        "<h5>Additional Records</h5>",
+                        "<ol><li>Explore a variety of records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://ldsgenealogy.com/TX/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy</a> site. </li><li>Explore historical photo sites on <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/texas-online-historical-photos-research\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a>.</li><li>Explore resources for school yearbooks on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://theancestorhunt.com/blog/free-texas-high-school-and-college-yearbooks-online/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li><li>Learn about colonial records in Texas. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Colonial_Records_of_Texas\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Colonial Records of Texas</span></a></li><br></ol>",
+                        "<h5>Ethnic</h5>",
+                        "<ol><li><span class=\"g\">African American</span>: Learn about African Americans in Texas in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/African_American_Resources_for_Texas\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: African American Resources for Texas</span></a></li><br><li>Learn more about African American records. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://accessgenealogy.com/black/texas-african-american-genealogy.htm\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AG—Texas African American Records</span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://genealogycenter.info/africanamerican/results_afram.php?subject=TX\" target=\"_blank\">African American Gateway</a> for Texas.</li><li><span class=\"g\">Native American</span>: Learn about American Indians in Texas in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Indians_of_Texas\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Indians of Texas</span></a></li><br></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Learn about Texas state history.",
+                "content": {
+                    "hidden": [],
+                    "images": [
+                        "https://thefhguide.com/img/x-texas-his.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://en.wikipedia.org/wiki/File:LaFora_1771_2.jpg\" target=\"_blank\"> <img src=\"img/x-texas-his.jpg\" alt=\"\" width=\"400px\" style=\"float:right; border:1px solid #000; padding:0px;  margin-top: 8px; margin-left: 16px\"></a>   <li>Explore Texas historical resources on FamilySearch. <br><br> <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Texas_History\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Texas History</span></a></li><br><li>Explore Texas history on Wikipedia. <br><br> <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://en.wikipedia.org/wiki/Texas#History\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">History</span></a><br> <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://en.wikipedia.org/wiki/Category:History_of_Texas\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">History of Texas</span></a> </li><br><li>Learn about Texas history on InfoPlease.com.<br><br> <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.infoplease.com/encyclopedia/places/north-america/us/texas/history\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">Texas History</span></a></li><br></ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Archives and Libraries",
+        "name": "Archives and Libraries",
+        "section_name": "Learn about Texas archives and libraries.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Texas archives and libraries.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Explore statewide and regional collections.</li><li>Explore books and photos that can be helpful in your research.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for archives and libraries. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-texas-lib.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://www.goodfreephotos.com/places/texas/san-antonio/texas-san-antonio-door-to-the-library.jpg.php\" target=\"_blank\"> <img src=\"img/x-texas-lib.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px;\"></a><li>Learn about Texas archives and libraries in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Texas_Archives_and_Libraries\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Texas Archives and Libraries</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://genealogysstar.blogspot.com/2018/12/Texas-state-archives-wonderful-local_13.html\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">Texas State Archives: Wonderful Local Sources for Genealogical Research</span></a></li><br><li>Learn about information in Texas archives in this video.<br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestryacademy.com/texas-researching-the-lone-star-state/videos/major-repositories\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AAC—Major Repositories—4:25  </span></a></li><br><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://texashistory.unt.edu/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Portal to Texas History site</a>.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.statearchives.us/texas.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">State Archives and Libraries site</a> for Texas.</li><li>Explore <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.tsl.texas.gov/arc/genfirst.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Texas Dept. of Archives</a> collection.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.rootsweb.ancestry.com/~bwo/texas.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Books We Own site</a> for Texas genealogy publications. Volunteers may be available for lookup services.</li><li>Search for <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://books.familysearch.org/primo_library/libweb/action/search.do?fn=search&amp;ct=search&amp;mode=Basic&amp;tab=default_tab&amp;indx=1&amp;dum=true&amp;srt=rank&amp;vid=FHD_PUBLIC&amp;frbg=&amp;vl%28freeText0%29=texas\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">free online books on Texas research</a> on the FamilySearch site.</li>  </ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Explore city and county directories to find Texas ancestors.</li><li>Discover the different types of information in directories, such as streets, churches, historical info, etc.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for city directories. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-texas-city.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://pixabay.com/photos/austin-texas-austin-tx-texas-1756159/\" target=\"_blank\"> <img src=\"img/x-texas-city.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:400px; border:1px solid #000; padding:0px;\"></a><li>Learn about Texas city directories in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Texas_Directories\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Texas Directories</span></a></li><br><li><span class=\"g\">Sites</span>: Explore <a class=\"lk\" href=\"https://theancestorhunt.com/blog/free-online-texas-city-directories/\" target=\"_blank\">Texas city directories</a> on the Ancestor Hunt site.</li><li>Find out more about city directories in this research guide from Ancestry. <br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestrycdn.com/legacy/offer/learning-center/2012/city_directories_short.pdf\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Six Things to Find—3 pgs.</span></a></li><br><li>Explore Texas city directories on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://search.ancestry.com/search/db.aspx?dbid=2469\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestry site</a>.</li><li>Explore Texas <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://sites.google.com/site/onlinedirectorysite/Home/united-states-online-historical-directories/texas-online-historical-directories\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">historical directories</a> by county (scroll down on the left).</li><li>Explore additional links for Texas city directories records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/TX/City-Directories.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Vital and Census Records",
+        "name": "Vital and Census Records",
+        "section_name": "Learn about Texas vital and census records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Texas vital records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find online resources for vital records.</li><li>Learn the history of vital records in the state of Texas.</li><li>Learn about alternates for vital records in Texas.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for vital records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-texas-vit.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://commons.wikimedia.org/wiki/File:Laredo_Post_Office_and_Courthouse,_Laredo,_Texas.jpg\" target=\"_blank\"> <img src=\"img/x-texas-vit.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px;\"></a><li>Learn about Texas vital records in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/en/wiki/Texas_Vital_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Texas Vital Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Texas_Vital_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: Texas Vital Records</span></a></li><br><li>Explore links for vital records on the <a class=\"lk\" href=\"https://www.texas.gov/texas-vital-records/\" target=\"_blank\">Texas.gov site</a>.</li><li>Search for online Texas <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.vitalrecordsus.com/texas-vital-records.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">vital records</a> and find addresses for state offices to write to for records.</li><li>Explore Texas birth, marriage, and death records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.accessgenealogy.com/texas/texas-vital-records.htm#content\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">AccessGenealogy site.</a></li><li>Learn about Texas BMD records in this video. <br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestryacademy.com/texas-researching-the-lone-star-state/videos/birth-death-marriage-and-divorce\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AAC—Birth, Death, Marriage and Divorce—4:06</span></a></li><br><li>Explore additional links for Texas vital records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-tx-genealogy/vr/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium site</a> and the <a class=\"lk\" href=\"https://www.genealogybranches.com/texas.html\" target=\"_blank\">Genealogy Branches site</a>.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find birth records for Texas ancestors.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for birth and adoption records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-texas-birth.png"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://www.familysearch.org/wiki/en/File:Texas_record_3.png\" target=\"_blank\"> <img src=\"img/x-texas-birth.png\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000; padding:0px;\"></a><li>Learn how to find Texas birth records in this article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/How_to_Find_Texas_Birth_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: How to Find Texas Birth Records</span></a></li><br><li>Explore additional links for Texas birth records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/TX/Birth-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Explore Texas marriage records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find marriage records for Texas ancestors.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for marriage and divorce records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-texas-birth.png"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://www.familysearch.org/wiki/en/File:Texas_9.png\" target=\"_blank\"> <img src=\"img/x-texas-birth.png\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000; padding:0px;\"></a><li>Learn how to find <a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/How_to_Find_Texas_Marriage_Records\" target=\"_blank\">Texas marriage records</a> with FamilySearch.</li><li>Explore links for <a class=\"lk\" href=\"http://www.idreamof.com/marriage/tx.html\" target=\"_blank\">Texas marriage records</a>.</li><li>Explore additional links for Texas marriage records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/TX/Marriage-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Explore Texas obituaries and death records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find obituaries for Texas ancestors.</li><li>Find death records and death indexes for Texas ancestors.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for obituary and death records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-texas-death.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"img/x-texas-death.jpg\" target=\"_blank\"> <img src=\"img/x-texas-death.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000;\"></a><li>Explore the <a class=\"lk\" href=\"http://obituarieshelp.org/texas_newspaper_obituaries.html\" target=\"_blank\">ObituariesHelp site</a> for Texas obituaries.</li><li>Explore <a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/free-texas-obituaries-and-obituary-index-links\" target=\"_blank\">The Ancestor Hunt </a> for obituaries.</li><li>Search for obituaries by county on the <a class=\"lk\" href=\"https://www.newspaperobituaries.net/texas/index.html\" target=\"_blank\">Newspaperobituaries.net site</a>.</li><li>Find additional resources for Texas obituaries on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-tx-genealogy/obits/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium site</a>.</li></ol>",
+                        "<h5>Texas Death Records</h5>",
+                        "<ol><li>Learn how to find Texas death records in this article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/How_to_Find_Texas_Death_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: How to Find Texas Death Records</span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://ancestorsatrest.com/texas.shtml\" target=\"_blank\">Ancestors at Rest site</a> for Texas death records.</li><li>Explore Texas <a class=\"lk\" href=\"http://www.deathindexes.com/texas/index.html\" target=\"_blank\">death records, indexes, and obituaries</a>.</li><li>Explore additional links for Texas death records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/TX/Death-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Explore Texas census and voter records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Explore state and county census records for Texas ancestors.</li><li>Find voter registration records in Texas.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for census and voter records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/4-texas.png"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/4-texas.png\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000;\"><li>Get an overview of Texas censuses in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Texas_Census\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Texas Census</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Census_Records_for_Texas\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Texas Census Records</span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://www.myfreecensus.com/texas-census-records.htm\" target=\"_blank\">MyFreeCensus site</a> for Texas state and county census records.</li><li>Explore additional links for Texas census records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/TX/Census-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore Texas census records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.accessgenealogy.com/texas/texas-census-records.htm#content\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">AccessGenealogy site.</a></li><li>Learn about census records and substitutes in this video.<br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestryacademy.com/texas-researching-the-lone-star-state/videos/census-records-and-substitutes\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AAC—Census Records and Substitutes—3:14  </span></a></li><br><li>Learn about Texas voting registers in this article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Texas_Voting_Registers\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Texas Voting Registers</span></a></li><br></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Church and Cemetery Records",
+        "name": "Church and Census Records",
+        "section_name": "Learn about Texas church and cemetery records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Texas church records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find Texas church information by denomination.</li><li>Search Texas church records at the county level.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for church records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-texas-church.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://pixabay.com/en/beaumont-chapel-texas-wedding-1526736/\" target=\"_blank\"> <img src=\"img/x-texas-church.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000;\"></a><li>Get an overview of Texas church records in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Texas_Church_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Texas Church Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Texas_Church_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Texas Church Records</span></a></li><br><li>Learn how to find Texas church records in this video.<br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestryacademy.com/texas-researching-the-lone-star-state/videos/church-records\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AAC—Church Records—2:56  </span></a></li><br><li>Explore additional links for Texas church records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/TX/Church-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore church record resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.theancestorhunt.com/blog/free-texas-online-church-records\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find cemetery records for Texas ancestors from a number of sources.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for cemetery records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-texas-cem.JPG"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://commons.wikimedia.org/wiki/File:TexasStateCemeteryEntrance.JPG\" target=\"_blank\"> <img src=\"img/x-texas-cem.JPG\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px;\"></a>  <li>Explore Texas cemetery records in this article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Texas_Cemeteries\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Texas Cemetery Records</span></a> </li><br><li>Browse the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.interment.net/us/tx/index.htm\" target=\"_blank\"><img src=\"../img/d.png\" width=\"2\">Interment.net site</a> for Texas cemetery records.</li><li>Search for <a class=\"lk\" href=\"http://www.idreamof.com/cemetery/tx.html\" target=\"_blank\">Texas cemetery records</a> online.</li><li>Explore Texas cemetery records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.accessgenealogy.com/cemetery/texas-cemetery-records.htm#content\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">AccessGenealogy site.</a></li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://usgwtombstones.org/texas/texas.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Tombstone Transcription Project</a> on the U.S. GenWeb site.</li><li>Search the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.findagrave.com/cemetery-browse/USA/Texas?id=state_46\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Find A Grave site</a> for cemetery records.</li><li>Search the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://billiongraves.com/site-map?country=United+States&amp;state=Texas\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">BillionGraves site</a> for cemetery records.</li><li>See additional cemetery resources on the Texas <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-tx-genealogy/cem\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium site</a>.</li><li>Explore additional links for Texas cemetery records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/TX/Cemetery-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://africanamericancemeteries.com/tx/\" target=\"_blank\"><img src=\"../img/d.png\" width=\"2\">African American cemetery records</a> in Texas.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Emigration and Immigration",
+        "name": "Emigration and Immigration",
+        "section_name": "Learn about Texas emigration and immigration.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Texas emigration and immigration.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Learn about the history of, and locations for, Texas immigration.</li><li>Find migration and travel routes for Texas ancestors.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for emigrarion and immigration records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/4-texas.png"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/4-texas.png\" alt=\"\" width=\"100%\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; \"><li>Learn about Texas emigration and immigration in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Texas_Emigration_and_Immigration\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Texas Emigration and Immigration</span></a></li><br><li>Learn about Texas naturalization and immigration in this video.<br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestryacademy.com/texas-researching-the-lone-star-state/videos/naturalization-and-immigration\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AAC—Naturalization and Immigration—2:03  </span></a></li><br><li>Learn about Texas migration routes in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Texas_Migration\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Texas Migration</span></a></li><br><li>Here's a case study in \"GTT\" (Gone to Texas) immigration. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://lessonslearnedingenealogyresearch.blogspot.com/2011/06/history-can-provide-your-answers.html\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">History Can Provide Your Answers</span></a></li><br><li>Explore additional links for Texas immigration records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/TX/Immigration-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore naturalization resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.theancestorhunt.com/blog/free-texas-online-naturalization-records\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Military Records",
+        "name": "Military Records",
+        "section_name": "Learn about Texas military records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Texas military records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find online resources for Texas ancestors in the military.</li><li>Search for Texas military records by war or conflict.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for military records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/y-us-flag.jpg"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/y-us-flag.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; border:1px solid #000; padding:0px;\"><li>Learn about Texas military records in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Texas_Military_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Texas Military Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Texas_Military_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: Texas Military Records</span></a></li><br><li>Learn about Texas military records in this Ancestry Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Texas_Military_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC: Texas Military Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Texas_Military_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: Texas Military Records</span></a></li><br><li>Watch this video for tips on using Texas military records.<br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestryacademy.com/texas-researching-the-lone-star-state/videos/military-records-2\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AAC—Military Records—6:45</span></a></li><br><li>Explore Texas military records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.accessgenealogy.com/texas-genealogy#content\" target=\"_blank\"> <img src=\"img/d.png\" width=\"2\">AccessGenealogy site</a> (scroll down).</li><li>Explore Texas military records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-tx-genealogy/mil/\" target=\"_blank\"> <img src=\"img/d.png\" width=\"2\">Linkpendium site</a>.</li><li>Explore additional links for Texas military records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/TX/Military-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore Texas military records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://genealogytrails.com/tex/military/militaryindex.html\" target=\"_blank\"> <img src=\"img/d.png\" width=\"2\">Genealogy Trails site</a>.</li><li>Explore <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.cyndislist.com/us/tx/military/\" target=\"_blank\"> <img src=\"img/d.png\" width=\"2\">Texas military resources</a> on Cyndi's List.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Probate, Land and Court",
+        "name": "Probate, Land and Court",
+        "section_name": "Learn about Texas probate, land, and court records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Texas probate and land records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find probate records at the county level.</li><li>Learn about the history of land and property claims in Texas.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles or videos in this Choice, write down key learnings for probate and court records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-texas-land.jpg"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/x-texas-land.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; border:1px solid #000;\"><li>Learn about Texas probate records in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Texas_Probate_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Texas Probate Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php?title=Texas_Probate_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: Texas Probate Records</span></a> </li><li>Explore additional links for Texas probate records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/TX/Probate-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore probate records and wills on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.theancestorhunt.com/blog/free-kentucky-probate-records-and-wills\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li><li>Learn about Texas land and property records. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Texas_Land_and_Property\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Texas Land and Property Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Texas_Land_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Texas Land Records</span></a></li><br><li>Get tips for using land records in this video.<br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestryacademy.com/texas-researching-the-lone-star-state/videos/land-lots-of-land\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AAC—Land, Lots of Land—5:07  </span></a></li><br><li>Explore additional links for Texas land records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/TX/Land-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Learn about the history of court records in Texas and where to find them.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-texas-court.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://pixabay.com/photos/brewster-county-courthouse-building-1584084/\" target=\"_blank\"> <img src=\"img/x-texas-court.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:400px; border:1px solid #000; padding:0px;\"></a><li>Learn about Texas court records in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Texas_Court_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Texas Court Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Texas_Court_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"><span class=\"re\">AC—Wiki: Texas Court Records</span></a></li><br><li>Learn about researching Texas tax records in this video.<br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestryacademy.com/texas-researching-the-lone-star-state/videos/tax-records\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AAC—Tax Records—3:05  </span></a></li><br><li>Explore records for district and circuit courts on the <a class=\"lk\" href=\"https://www.archives.gov/fort-worth/\" target=\"_blank\">National Archives site</a>.</li><li>Explore school record resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.theancestorhunt.com/blog/free-texas-online-school-records\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li><li>Explore resources for orphans on the <a class=\"lk\" href=\"https://orphanfinder.com/state-search/texas/\" target=\"_blank\">OrphanFinder</a> site.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Maps and Gazetteers",
+        "name": "Maps and Gazetteers",
+        "section_name": "Learn about Texas maps and gazetteers.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Texas maps and gazetteers.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Learn about the history of Texas maps.</li><li>Find out how Texas gazetteers can help you in your research.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-texas-map.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://commons.wikimedia.org/wiki/File:1933_Texas_state_highway_map.jpg\" target=\"_blank\"> <img src=\"img/x-texas-map.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px;\"></a> <li>Learn about Texas maps in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Texas_Maps\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Texas Maps</span></a><br><span class=\"star notranslate\">☆</span><a href=\"https://wiki.rootsweb.com/wiki/index.php/Texas_Maps\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: Texas Maps</span></a>  </li><br><li>Learn about Texas gazetteers in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Texas_Gazetteers\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Texas Gazetteers</span></a></li><br><li>Access interactive maps and atlases of Texas on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.mapofus.org/Texas/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">MapsofUS site</a>.</li><li>Find Texas towns and communities on the <a class=\"lk\" href=\"https://roadsidethoughts.com/tx/index-a.htm\" target=\"_blank\">RoadsideThoughts site</a>.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for maps and gazetteers. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.davidrumsey.com/luna/servlet/view/search?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&amp;q=texas&amp;search=Go\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">David Rumsey collection</a> of Texas maps.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.lib.utexas.edu/maps/texas.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Perry-Castaneda site</a> for maps of Texas.</li><li>Explore <a class=\"lk\" href=\"http://www.historicmapworks.com/Browse/United_States/Texas/\" target=\"_blank\">historical Texas maps</a> on the Historic Map Works site.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.oldmapsonline.org/en/Texas\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Old Maps Online site</a> for Texas maps.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://commons.wikimedia.org/wiki/Category:Old_maps_of_Texas\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Old Maps of Texas</a> on the Wikipedia site.</li><li>Explore a <a class=\"lk\" href=\"https://www.mapofus.org/Texas/\" target=\"_blank\"> gazetteer of Texas</a> from 1904.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Newspapers",
+        "name": "Newspapers",
+        "section_name": "Learn about Texas newspapers.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Texas newspapers.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Discover the history of Texas newspapers.</li><li>Learn more about how to use Texas periodical and manuscripts.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        }
+                    ],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Learn about Texas newspapers in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Texas_Newspapers\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Texas Newspapers</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Texas_Periodicals,_Newspapers,_and_Manuscript_Collections\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: Texas Periodicals, Newspapers, and Manuscripts</span></a></li><br><li>Learn about researching historical Texas newspapers in this tutorial from The Ancestor Hunt. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/research-free-texas-historical-newspapers\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">Research Free Historical Texas Newspapers—7:57</span></a></li><br></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find research clues in the Library of Congress historical newspaper collection.</li><li>Search Texas online newspaper sites.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for newspaper records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/y-newspaper.png"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/y-newspaper.png\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; border:1px solid #000; padding:0px;\"><li>Search for <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://chroniclingamerica.loc.gov/search/titles/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Texas  historical newspapers</a> in the Library of Congress collection.</li><li>Find links to <a class=\"lk\" href=\"https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives#Texas\" target=\"_blank\"> Texas newspapers</a> on the Wikipedia site.</li> <li>Search the <a class=\"lk\" href=\"https://sites.google.com/site/onlinenewspapersite/Home/usa/tx\" target=\"_blank\">Texas Online Historical Newspapers</a> site.</li><li>Explore Texas newspaper resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/texas-online-historical-newspapers-summary\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li><li>See additional Texas newspaper resources on the <a class=\"lk\" href=\"http://www.linkpendium.com/all-tx-genealogy/news/\" target=\"_blank\">Linkpendium</a> site.</li><li>Explore additional links for Texas newspapers and obituaries on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/TX/Newspapers-and-Obituaries.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Websites",
+        "name": "Websites",
+        "section_name": "Explore additional websites for research.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "There are a number of websites with valuable resources for Texas research.",
+                "content": {
+                    "hidden": [],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Explore links in <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.cyndislist.com/us/tx/general/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Cyndi's List</a>.</li><li>Explore links in <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-tx-genealogy/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium</a>.</li><li>Explore links in <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.genealogylinks.net/usa/texas/index.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Genealogylinks.net</a>.</li> <li>Explore links in <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/TX/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy.com</a>.</li> </ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Search Records",
+        "name": "Search Records",
+        "section_name": "Search records from Texas.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Use the QUIKLinks (lightning bolts) or Texas County links (bottom) to quickly search common record collections for Texas.",
+                "content": {
+                    "hidden": [],
+                    "images": [],
+                    "text": [
+                        "<p><i>Note</i> : To search records on these sites, you must be registered on the site or be at a FamilySearch Center.</p>",
+                        "<ol><li>In the QUIKLinks, click the link for FamilySearch, Ancestry, Findmypast, or MyHeritage to view the corresponding record collection.</li><li>Scroll down near the bottom of this page to see available county records. Click the name of the county for FamilySearch, or A for Ancestry, or L for Linkpendium.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Explore additional record collections.",
+                "content": {
+                    "hidden": [],
+                    "images": [],
+                    "text": [
+                        "<ol><li>In FamilySearch, explore the <a class=\"lk\" href=\"https://familysearch.org/wiki/en/Texas_Online_Genealogy_Records\">Texas Online Genealogy Records page</a> for a variety of record collections.</li><li>In each program (FamilySearch, Ancestry, or Findmypast), explore additional record collections besides the ones listed in QUIKLinks.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Get Help",
+        "name": "Get Help",
+        "section_name": "Get help with your Texas research.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Use Facebook pages to get answers to your questions.",
+                "content": {
+                    "hidden": [],
+                    "images": [
+                        "https://thefhguide.com/img/fh-help3.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"img/fh-help3.jpg\" target=\"_blank\"> <img src=\"img/fh-help3.jpg\" alt=\"\" width=\"350px\" style=\"float:right; margin-top: 16px; margin-left: 16px; border:1px solid #000; padding:0px;\"></a>  <li>Visit the <a class=\"lk\" href=\"https://www.facebook.com/groups/183985374989673/\" target=\"_blank\">Texas Genealogy Network page</a> on Facebook.</li><li>Visit the <a class=\"lk\" href=\"https://www.facebook.com/TexasGenealogyRecords/\" target=\"_blank\">Texas Genealogy page</a> on Facebook.</li><li>Visit the <a class=\"lk\" href=\"http://www.facebook.com/groups/TexasGenealogyJustAsk\" target=\"_blank\">Texas Genealogy - Just Ask! page</a> on Facebook.</li><li>Visit the <a class=\"lk\" href=\"https://www.facebook.com/groups/804695219582639/\" target=\"_blank\">U.S. South Genealogy Research page</a> on Facebook.</li><li>See the <a class=\"lk\" href=\"http://socialmediagenealogy.com/genealogy-on-facebook-list/\" target=\"_blank\">Genealogy on Facebook list</a> of Facebook groups dedicated to helping with research for Texas.</li></ol>",
+                        "<p style=\"margin-left:44px\">Regional Groups</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Join the <a class=\"lk\" href=\"http://www.rootschat.com/forum/usa/\" target=\"_blank\">RootsChat forum</a> and post questions about Texas research.</li><li>Explore the <a class=\"lk\" href=\"http://www.cyndislist.com/us/tx/social/\" target=\"_blank\"> Texas research mailing lists</a> on Cyndi's List.</li><li>Use the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.ancestry.com/boards/localities.northam.usa.states.texas/mb.ashx\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestry message boards</a> to read or post questions about Texas research.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://community.familysearch.org/s/group/0F93A00000022HeSAI/welcome-to-texas-yall\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">FamilySearch community</a> for help with Texas research.</li><li>Explore Texas research questions in the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://genealogy.stackexchange.com/questions/tagged/texas\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Genealogy Stack Exchange</a>.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Learn about Texas genealogy societies.",
+                "content": {
+                    "hidden": [
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Proficient: Make a list of Facebook groups, mailing lists, and genealogy societies of interest, and then join or subscribe to them. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Learn about genealogy societies in Texas in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Texas_Societies\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Texas Societies</span></a></li><li>Visit the <a class=\"lk\" href=\"https://www.facebook.com/groups/TxSGS/\" target=\"_blank\">Texas State Genealogical Society page</a> on Facebook.</li><li>Get help at a <a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Category:Texas_Family_History_Centers\" target=\"_blank\">family history center in Texas</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\">Regional/Local Societies</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    }
+]

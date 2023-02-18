@@ -1,0 +1,537 @@
+[
+    {
+        "nav_name": "Research",
+        "name": "Research and Records",
+        "section_name": "Learn about Wisconsin research and records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Get started with research for your Wisconsin ancestors.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Learn successful research strategies for Wisconsin ancestors.</li><li><span class=\"g\">Record Finder</span>: Use the Record Selection Table to determine priorities for Wisconsin research.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-wisconsin-over.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://pixabay.com/photos/downtown-wisconsin-washington-usa-347454/\" target=\"_blank\"> <img src=\"img/x-wisconsin-over.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; border:1px solid #000; padding:0px;\"></a>    <li><span class=\"g\">Introduction</span>: Learn about basic Wisconsin research strategies. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Wisconsin_Research_Tips_and_Strategies\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Basic Wisconsin Research Tips and Strategies</span></a></li><br><li>Get an overview of Wisconsin research in this video. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/help/helpcenter/lessons/united-states-research-midwest-region-wisconsin-overview\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">FS—Wisconsin Overview—2:16</span></a></li><br><li>Follow this research study for Wisconsin ancestors, from 1880 to the present. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Step-by-Step_Wisconsin_Research,_1880-Present\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Step-by-Step Wisconsin Research, 1880-Present</span></a></li><br><li><span class=\"g\">Ancestry</span>: Explore resources for Wisconsin research on Ancestry. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://search.ancestry.com/Places/US/Wisconsin/Default.aspx\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wisconsin Resources</span></a><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestrycdn.com/support/us/2016/11/wisconsin.pdf\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wisconsin State Research Guide, 5 pgs.</span></a></li><br><li><span class=\"g\">Record Finder</span>: Use the Wisconsin Record Finder to decide on records to search. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Wisconsin_Research_Tips_and_Strategies#Wisconsin_Record_Finder\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wisconsin Record Selection Table</span></a></li><br><h5>Additional Records</h5><ol><li>Explore a variety of records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://ldsgenealogy.com/WI/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy</a> site. </li><li>Explore historical photo sites on <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/wisconsin-online-historical-photos-research\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a>. </li><li>Explore resources for school yearbooks on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://theancestorhunt.com/blog/free-wisconsin-high-school-and-college-yearbooks-online/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site. </li></ol><br><h5>Ethnic</h5><ol><li><span class=\"g\">African American</span>: Learn about African Americans in Wisconsin in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/African_American_Resources_for_Wisconsin\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: African American Resources for Wisconsin</span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://genealogycenter.info/africanamerican/results_afram.php?subject=WI\" target=\"_blank\">African American Gateway</a> for Wisconsin. </li><li><span class=\"g\">Native American</span>: Learn about American Indians in Wisconsin in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Indians_of_Wisconsin\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Indians of Wisconsin</span></a></li><br></ol><br></ol>",
+                        "<h5>Additional Records</h5>",
+                        "<ol><li>Explore a variety of records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://ldsgenealogy.com/WI/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy</a> site. </li><li>Explore historical photo sites on <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/wisconsin-online-historical-photos-research\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a>. </li><li>Explore resources for school yearbooks on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://theancestorhunt.com/blog/free-wisconsin-high-school-and-college-yearbooks-online/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site. </li></ol>",
+                        "<h5>Ethnic</h5>",
+                        "<ol><li><span class=\"g\">African American</span>: Learn about African Americans in Wisconsin in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/African_American_Resources_for_Wisconsin\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: African American Resources for Wisconsin</span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://genealogycenter.info/africanamerican/results_afram.php?subject=WI\" target=\"_blank\">African American Gateway</a> for Wisconsin. </li><li><span class=\"g\">Native American</span>: Learn about American Indians in Wisconsin in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Indians_of_Wisconsin\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Indians of Wisconsin</span></a></li><br></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Learn about Wisconsin state history.",
+                "content": {
+                    "hidden": [],
+                    "images": [
+                        "https://thefhguide.com/img/x-wisconsin-his.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://en.wikipedia.org/wiki/File:Wisconsin_in_1718.jpg\" target=\"_blank\"> <img src=\"img/x-wisconsin-his.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; border:1px solid #000; padding:0px;\"></a>    <li>Explore Wisconsin historical resources on FamilySearch. <br><br> <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Wisconsin_History\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wisconsin History</span></a></li><br><li>Explore Wisconsin history on Wikipedia. <br><br> <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://en.wikipedia.org/wiki/Wisconsin#History\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">History</span></a><br> <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://en.wikipedia.org/wiki/Category:History_of_Wisconsin\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">History of Wisconsin</span></a> </li><br><li>Learn about Wisconsin history on InfoPlease.com.<br><br> <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.infoplease.com/encyclopedia/places/north-america/us/wisconsin-state-united-states/history\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">Wisconsin History</span></a></li><br></ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Archives and Libraries",
+        "name": "Archives and Libraries",
+        "section_name": "Learn about Wisconsin archives and libraries.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Wisconsin archives and libraries.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Explore statewide and regional collections.</li><li>Explore books and photos that can be helpful in your research.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for archives and libraries. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-wisconsin-lib.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://commons.wikimedia.org/wiki/File:Wisconsin_Historical_Society_library_reading_room.jpg\" target=\"_blank\"> <img src=\"img/x-wisconsin-lib.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:400px; border:1px solid #000; padding:0px;\"></a><li>Learn about Wisconsin archives and libraries in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Wisconsin_Archives_and_Libraries\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Wisconsin Archives and Libraries</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://genealogysstar.blogspot.com/2018/12/Wisconsin-state-archives-wonderful-local_13.html\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">Wisconsin State Archives: Wonderful Local Sources for Genealogical Research</span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://www.statearchives.us/wisconsin.htm\" target=\"_blank\">State Archives and Libraries site</a> for Wisconsin.</li><li>Explore the <a class=\"lk\" href=\"https://www.wisconsin.gov/archives\" target=\"_blank\">Wisconsin Dept of Archives</a> site.</li><li>Explore the <a class=\"lk\" href=\"http://www.statearchives.us/wisconsin.htm\" target=\"_blank\">State Archives and Libraries site</a> for Wisconsin.</li><li>Explore local and county histories on the <a class=\"lk\" href=\"https://www.wisconsinhistory.org/Records/Article/CS15254\" target=\"_blank\">Wisconsin Historical Society site</a>.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.rootsweb.ancestry.com/~bwo/wisconsin.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Books We Own site</a> for Wisconsin genealogy publications. Volunteers may be available for lookup services.</li><li>Search for <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://books.familysearch.org/primo_library/libweb/action/search.do?fn=search&amp;ct=search&amp;mode=Basic&amp;tab=default_tab&amp;indx=1&amp;dum=true&amp;srt=rank&amp;vid=FHD_PUBLIC&amp;frbg=&amp;vl%28freeText0%29=wisconsin\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">free online books on Wisconsin research</a> on the FamilySearch site.</li><li><span class=\"g\">Photos</span>: Explore historical photo resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/wisconsin-online-historical-photos-research\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Explore city and county directories to find Wisconsin ancestors.</li><li>Discover the different types of information in directories, such as streets, churches, historical info, etc.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for city directories. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-wisconsin-city.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://pixabay.com/photos/baraboo-wisconsin-panorama-1826829/\" target=\"_blank\"> <img src=\"img/x-wisconsin-city.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:400px; border:1px solid #000; padding:0px;\"></a><li>Learn about Wisconsin city directories in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Wisconsin_Directories\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Wisconsin Directories</span></a></li><br><li><span class=\"g\">Sites</span>: Explore <a class=\"lk\" href=\"https://theancestorhunt.com/blog/free-online-wisconsin-city-directories/\" target=\"_blank\">Wisconsin city directories</a> on the Ancestor Hunt site.</li><li>Find out more about city directories in this research guide from Ancestry. <br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestrycdn.com/legacy/offer/learning-center/2012/city_directories_short.pdf\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Six Things to Find—3 pgs.</span></a></li><br><li>Explore Wisconsin city directories on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://search.ancestry.com/search/db.aspx?dbid=2469\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestry site</a>.</li><li>Explore Wisconsin <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://sites.google.com/site/onlinedirectorysite/Home/usa/wi\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">historical directories</a> by county.</li><li>Explore additional links for Wisconsin city directories on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/WI/City-Directories.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Vital and Census Records",
+        "name": "Vital and Census Records",
+        "section_name": "Learn about Wisconsin vital and census records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Wisconsin vital records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find online resources for vital records.</li><li>Learn the history of vital records in the state of Wisconsin.</li><li>Learn about alternates for vital records in Wisconsin.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for vital records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-wisconsin-vit.jpg"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/x-wisconsin-vit.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 8px; margin-bottom: 16px; max-width:400px; border:1px solid #000; padding:0px;\"><li>Learn about Wisconsin vital records in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Wisconsin_Birth,_Marriage,_and_Death_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Wisconsin Vital Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Wisconsin_Vital_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: Wisconsin Vital Records</span></a></li><br><li>Explore links for vital records on the <a class=\"lk\" href=\"https://www.wisconsin.gov/pacific/cdphe/categories/services-and-information/birth-death-and-other-vital-records\" target=\"_blank\">Wisconsin Public Health site</a>.</li><li>Search for online Wisconsin <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.vitalrecordsus.com/wisconsin-vital-records.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">vital records</a> and find addresses for state offices to write to for records.</li><li>Explore Wisconsin birth, marriage, and death records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.accessgenealogy.com/wisconsin/wisconsin-vital-records.htm#content\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">AccessGenealogy site.</a></li><li>Explore additional links for Wisconsin vital records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-wi-genealogy/vr/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium site</a>.</li><li>Explore additional links for Wisconsin birth records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/WI/Birth-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find birth and adoption records for Wisconsin ancestors.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for birth and adoption records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-wisconsin-birth.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://www.familysearch.org/wiki/en/File:0012.jpg\" target=\"_blank\"> <img src=\"img/x-wisconsin-birth.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000; padding:0px;\"></a><li>Learn how to find Wisconsin birth records in this article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/How_to_Find_Wisconsin_Birth_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: How to Find Wisconsin Birth Records</span></a></li><br><li>Get help with adoption topics on the <a class=\"lk\" href=\"http://www.facebook.com/pages/Adoptees-in-Search-Wisconsins-Triad-Connection-AIS-CTC/169711366419558\" target=\"_blank\">Wisconsin Adoptees / Birth Parents</a> Facebook page.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Explore Wisconsin marriage records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find marriage records for Wisconsin ancestors.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for obituary and death records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-wisconsin-marr.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://www.familysearch.org/wiki/en/File:Theo_mary_marriage_lic.jpg\" target=\"_blank\"> <img src=\"img/x-wisconsin-marr.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000; padding:0px;\"></a><li>Learn how to find <a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/How_to_Find_Wisconsin_Marriage_Records\" target=\"_blank\">Wisconsin marriage records</a> with FamilySearch.</li><li>Explore links for <a class=\"lk\" href=\"http://www.idreamof.com/marriage/wi.html\" target=\"_blank\">Wisconsin marriage records</a>.</li><li>Explore additional links for Wisconsin marriage records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/WI/Marriage-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Explore Wisconsin obituaries and death records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find obituaries for Wisconsin ancestors.</li><li>Find death records and death indexes for Wisconsin ancestors.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-wisconsin-death.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://www.familysearch.org/wiki/en/File:Dieu_d_lerquin_death_cert.jpg\" target=\"_blank\"> <img src=\"img/x-wisconsin-death.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000; padding:0px;\"></a><li>Explore the <a class=\"lk\" href=\"http://obituarieshelp.org/wisconsin_newspaper_obituaries.html\" target=\"_blank\">ObituariesHelp site</a> for Wisconsin obituaries.</li><li>Explore <a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/free-wisconsin-obituaries-and-obituary-index-links\" target=\"_blank\">The Ancestor Hunt </a> for obituaries.</li><li>Search for obituaries by county on the <a class=\"lk\" href=\"https://www.newspaperobituaries.net/wisconsin/index.html\" target=\"_blank\">Newspaperobituaries.net site</a>.</li><li>Find additional resources for Wisconsin obituaries on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-wi-genealogy/obits/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium site</a>.</li></ol>",
+                        "<h5>Wisconsin Death Records</h5>",
+                        "<ol><li>Learn how to find Wisconsin death records in this article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/How_to_Find_Wisconsin_Death_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: How to Find Wisconsin Death Records</span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://ancestorsatrest.com/wisconsin.shtml\" target=\"_blank\">Ancestors at Rest site</a> for Wisconsin death records.</li><li>Explore Wisconsin <a class=\"lk\" href=\"http://www.deathindexes.com/wisconsin/index.html\" target=\"_blank\">death records, indexes, and obituaries</a>.</li><li>Explore additional links for Wisconsin death records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/WI/Death-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Explore Wisconsin census and voter records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Explore state and county census records for Wisconsin ancestors.</li><li>Find voter registration records in Wisconsin.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for census and voter records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/4-wisconsin.png"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/4-wisconsin.png\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000; padding:0px;\"><li>Get an overview of Wisconsin censuses in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Wisconsin_Census\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wisconsin Census</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Census_Records_for_Wisconsin\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wisconsin Census Records</span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://www.myfreecensus.com/wisconsin-census-records.htm\" target=\"_blank\">MyFreeCensus site</a> for Wisconsin state and county census records.</li><li>Explore Wisconsin census records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.accessgenealogy.com/wisconsin/wisconsin-census-records.htm#content\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">AccessGenealogy site.</a></li><li>Learn about Wisconsin voting registers in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Wisconsin_Voting_Registers\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wisconsin Voting Registers</span></a></li><br><li>Explore additional links for Wisconsin census records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/WI/Census-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Church and Cemetery Records",
+        "name": "Church and Census Records",
+        "section_name": "Learn about Wisconsin church and cemetery records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Wisconsin church records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find Wisconsin church information by denomination.</li><li>Search Wisconsin church records at the county level.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for church records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-wisconsin-church.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://commons.wikimedia.org/wiki/File:Union_Congregational_Church,_Astor_Historic_District,_Green_Bay,_WI.jpg\" target=\"_blank\"> <img src=\"img/x-wisconsin-church.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000;\"></a><li>Get an overview of Wisconsin church records in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Wisconsin_Church_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wisconsin Church Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Wisconsin_Church_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wisconsin Church Records</span></a></li><br><li>Explore additional links for Wisconsin church records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/WI/Church-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore church record resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.theancestorhunt.com/blog/free-wisconsin-online-church-records\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find cemetery records for Wisconsin ancestors from a number of sources.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for cemetery records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-wisconsin-cem.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://pixabay.com/en/cemetery-tomb-grave-fence-1169713/\" target=\"_blank\"> <img src=\"img/x-wisconsin-cem.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 8px; margin-bottom: 16px; max-width:400px; border:1px solid #000; padding:0px;\"></a>  <li>Explore Wisconsin cemetery records in this article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Wisconsin_Cemeteries\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wisconsin Cemetery Records</span></a> </li><br><li>Browse the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.interment.net/us/wi/index.htm\" target=\"_blank\"><img src=\"../img/d.png\" width=\"2\">Interment.net site</a> for Wisconsin cemetery records.</li><li>Search for <a class=\"lk\" href=\"http://www.idreamof.com/cemetery/co.html\" target=\"_blank\">Wisconsin cemetery records</a> online.</li><li>Explore Wisconsin cemetery records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.accessgenealogy.com/cemetery/wisconsin-cemetery-records.htm#content\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">AccessGenealogy site.</a></li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://usgwtombstones.org/wisconsin/wisconsin.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Tombstone Transcription Project</a> on the U.S. GenWeb site.</li><li>Search the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.findagrave.com/cemetery-browse/USA/Wisconsin?id=state_51\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Find A Grave site</a> for cemetery records.</li><li>Search the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://billiongraves.com/site-map?country=United+States&amp;state=Wisconsin\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">BillionGraves site</a> for cemetery records.</li><li>See additional cemetery resources on the Wisconsin <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-wi-genealogy/cem\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium site</a>.</li><li>Explore additional links for Wisconsin cemetery records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/WI/Cemetery-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://africanamericancemeteries.com/wi/\" target=\"_blank\"><img src=\"../img/d.png\" width=\"2\">African American cemetery records</a> in Wisconsin.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Emigration and Immigration",
+        "name": "Emigration and Immigration",
+        "section_name": "Learn about Wisconsin emigration and immigration.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Wisconsin emigration and immigration.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Learn about the history of, and locations for, Wisconsin immigration.</li><li>Find migration and travel routes for Wisconsin ancestors.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for emigrarion and immigration records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/4-wisconsin.png"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/4-wisconsin.png\" alt=\"\" width=\"100%\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; \"><li>Learn about Wisconsin emigration and immigration in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Wisconsin_Emigration_and_Immigration\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Wisconsin Emigration and Immigration</span></a></li><br><li>Learn about Wisconsin migration routes in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Wisconsin_Migration\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Wisconsin Migration</span></a></li><br><li>Explore additional links for Wisconsin immigration records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/WI/Immigration-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore naturalization resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.theancestorhunt.com/blog/free-wisconsin-online-naturalization-records\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Military Records",
+        "name": "Military Records",
+        "section_name": "Learn about Wisconsin military records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Wisconsin military records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find online resources for Wisconsin ancestors in the military.</li><li>Search for Wisconsin military records by war or conflict.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for military records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/y-us-flag.jpg"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/y-us-flag.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; border:1px solid #000; padding:0px;\"><li>Learn about Wisconsin military records in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Wisconsin_Military_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Wisconsin Military Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Wisconsin_Military_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: Wisconsin Military Records</span></a></li><br><li>Explore Wisconsin military records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.accessgenealogy.com/wisconsin-genealogy#content\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">AccessGenealogy site</a> (scroll down).</li><li>Explore Wisconsin military records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-wi-genealogy/mil/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium site</a>.</li><li>Explore additional links for Wisconsin military records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/WI/Military-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore Wisconsin military records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://genealogytrails.com/wis/MilitaryIndex.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Genealogy Trails site</a>.</li><li>Explore <a class=\"lk\" href=\"http://www.cyndislist.com/us/wi/military/\" target=\"_blank\">Wisconsin military resources</a> on Cyndi's List.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Probate, Land and Court",
+        "name": "Probate, Land and Court",
+        "section_name": "Learn about Wisconsin probate, land, and court records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Wisconsin probate and land records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find probate records at the county level.</li><li>Learn about the history of land and property claims in Wisconsin.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles or videos in this Choice, write down key learnings for probate and court records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-wisconsin-land.jpg"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/x-wisconsin-land.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; border:1px solid #000;\"><li>Learn about Wisconsin probate records in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Wisconsin_Probate_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Wisconsin Probate Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php?title=Wisconsin_Probate_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: Wisconsin Probate Records</span></a></li><br><li>Explore additional links for Wisconsin probate records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/WI/Probate-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore probate records and wills on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.theancestorhunt.com/blog/free-wisconsin-probate-records-and-wills\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li><li>Learn about Wisconsin land and property records. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Wisconsin_Land_and_Property\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"><span class=\"re\">FS—Wisconsin Land and Property Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Wisconsin_Land_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wisconsin Land Records</span></a></li><br><li>Explore additional links for Wisconsin land records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/WI/Land-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Learn about the history of court records in Wisconsin and where to find them.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-wisconsin-court.jpg"
+                    ],
+                    "text": [
+                        "<ol><a class=\"lk\" href=\"https://en.wikipedia.org/wiki/Green_County_Courthouse_(Wisconsin)#/media/File:Green_County_Wisconsin_courthouse.jpg\" target=\"_blank\"> <img src=\"img/x-wisconsin-court.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:400px; border:1px solid #000; padding:0px;\"></a><li>Learn about Wisconsin court records in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Wisconsin_Court_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Wisconsin Court Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Wisconsin_Court_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"><span class=\"re\">AC—Wiki: Wisconsin Court Records</span></a></li><li>Explore records for district and circuit courts on the <a class=\"lk\" href=\"https://www.archives.gov/chicago/\" target=\"_blank\">National Archives site</a>.</li><li>Explore school record resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.theancestorhunt.com/blog/free-wisconsin-online-school-records\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li><li>Explore resources for orphans on the <a class=\"lk\" href=\"https://orphanfinder.com/state-search/wisconsin/\" target=\"_blank\">OrphanFinder</a> site.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Maps and Gazetteers",
+        "name": "Maps and Gazetteers",
+        "section_name": "Learn about Wisconsin maps and gazetteers.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Wisconsin maps and gazetteers.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Learn about the history of Wisconsin maps.</li><li>Find out how Wisconsin gazetteers can help you in your research.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-wisconsin-map.jpg"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/x-wisconsin-map.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px;\"> <li>Learn about Wisconsin maps in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Wisconsin_Maps\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Wisconsin Maps</span></a><br><span class=\"star notranslate\">☆</span><a href=\"https://wiki.rootsweb.com/wiki/index.php/Wisconsin_Maps\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: Wisconsin Maps</span></a>  </li><br><li>Learn about Wisconsin gazetteers in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Wisconsin_Gazetteers\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Wisconsin Gazetteers</span></a></li><br><li>Access interactive maps and atlases of Wisconsin on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.mapofus.org/wisconsin/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">MapsofUS site</a>.</li><li>Find Wisconsin towns and communities on the <a class=\"lk\" href=\"https://roadsidethoughts.com/wi/index-a.htm\" target=\"_blank\">RoadsideThoughts site</a>.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for maps and gazetteers. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.davidrumsey.com/luna/servlet/view/search?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&amp;q=wisconsin&amp;search=Go\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">David Rumsey collection</a> of Wisconsin maps.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.lib.utexas.edu/maps/wisconsin.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Perry-Castaneda site</a> for maps of Wisconsin.</li><li>Explore <a class=\"lk\" href=\"http://www.historicmapworks.com/Browse/United_States/Wisconsin/\" target=\"_blank\">historical Wisconsin maps</a> on the Historic Map Works site.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.oldmapsonline.org/en/Wisconsin\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Old Maps Online site</a> for Wisconsin maps.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://commons.wikimedia.org/wiki/Category:Old_maps_of_Wisconsin\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Old Maps of Wisconsin</a> on the Wikipedia site.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Newspapers",
+        "name": "Newspapers",
+        "section_name": "Learn about Wisconsin newspapers.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Wisconsin newspapers.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Discover the history of Wisconsin newspapers.</li><li>Learn more about how to use Wisconsin periodical and manuscripts.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        }
+                    ],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Learn about Wisconsin newspapers in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Wisconsin_Newspapers\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Wisconsin Newspapers</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Wisconsin_Periodicals,_Newspapers,_and_Manuscript_Collections\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: Wisconsin Periodicals, Newspapers, and Manuscripts</span></a></li><br></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find research clues in the Library of Congress historical newspaper collection.</li><li>Search Wisconsin online newspaper sites.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for newspaper records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/y-newspaper.png"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/y-newspaper.png\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; border:1px solid #000; padding:0px;\"><li>Search for <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://chroniclingamerica.loc.gov/search/titles/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Wisconsin  historical newspapers</a> in the Library of Congress collection.</li><li>Find links to <a class=\"lk\" href=\"https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives#Wisconsin\" target=\"_blank\"> Wisconsin newspapers</a> on the Wikipedia site.</li> <li>Search the <a class=\"lk\" href=\"https://sites.google.com/site/onlinenewspapersite/Home/usa/wi\" target=\"_blank\">Wisconsin Online Historical Newspapers</a> site.</li><li>Explore Wisconsin newspaper resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/wisconsin-online-historical-newspapers-summary\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li><li>See additional Wisconsin newspaper resources on the <a class=\"lk\" href=\"http://www.linkpendium.com/all-wi-genealogy/news/\" target=\"_blank\">Linkpendium</a> site.</li><li>Explore additional links for Wisconsin newspapers and obituaries on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/WI/Newspapers-and-Obituaries.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Websites",
+        "name": "Websites",
+        "section_name": "Explore additional websites for research.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "There are a number of websites with valuable resources for Wisconsin research.",
+                "content": {
+                    "hidden": [],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Explore links in <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.cyndislist.com/us/ca/general/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Cyndi's List</a>.</li><li>Explore links in <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-wi-genealogy/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium</a>.</li><li>Explore links in <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.genealogylinks.net/usa/wisconsin/index.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Genealogylinks.net</a>.</li> <li>Explore links in <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/WI/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy.com</a>.</li> </ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Websites",
+        "name": "Websites",
+        "section_name": "Search records from Wisconsin.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Use the QUIKLinks (lightning bolts) or Wisconsin County links (bottom) to quickly search common record collections for Wisconsin.",
+                "content": {
+                    "hidden": [],
+                    "images": [],
+                    "text": [
+                        "<p><i>Note</i> : To search records on these sites, you must be registered on the site or be at a FamilySearch Center.</p>",
+                        "<ol><li>In the QUIKLinks, click the link for FamilySearch, Ancestry, Findmypast, or MyHeritage to view the corresponding record collection.</li><li>Scroll down near the bottom of this page to see available county records. Click the name of the county for FamilySearch, or A for Ancestry, or L for Linkpendium.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Explore additional record collections.",
+                "content": {
+                    "hidden": [],
+                    "images": [],
+                    "text": [
+                        "<ol><li>In FamilySearch, explore the <a class=\"lk\" href=\"https://familysearch.org/wiki/en/Wisconsin_Online_Genealogy_Records\">Wisconsin Online Genealogy Records page</a> for a variety of record collections.</li><li>In each program (FamilySearch, Ancestry, or Findmypast), explore additional record collections besides the ones listed in QUIKLinks.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Get Help",
+        "name": "Get Help",
+        "section_name": "Get help with your Wisconsin research.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Use Facebook pages to get answers to your questions.",
+                "content": {
+                    "hidden": [],
+                    "images": [
+                        "https://thefhguide.com/img/fh-help3.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"img/fh-help3.jpg\" target=\"_blank\"> <img src=\"img/fh-help3.jpg\" alt=\"\" width=\"350px\" style=\"float:right; margin-top: 16px; margin-left: 16px; border:1px solid #000; padding:0px;\"></a>  <li>Visit the <a class=\"lk\" href=\"https://www.facebook.com/groups/166325933433955/\" target=\"_blank\">Wisconsin Genealogy Network page</a> on Facebook.</li><li>Visit the <a class=\"lk\" href=\"https://www.facebook.com/WisconsinGenealogyRecords/\" target=\"_blank\">Wisconsin Genealogy page</a> on Facebook.</li><li>Visit the <a class=\"lk\" href=\"https://www.facebook.com/groups/1473896099560205/\" target=\"_blank\">U.S. Midwest Genealogy Research page</a> on Facebook.</li><li>See the <a class=\"lk\" href=\"http://socialmediagenealogy.com/genealogy-on-facebook-list/\" target=\"_blank\">Genealogy on Facebook list</a> of Facebook groups dedicated to helping with research for Wisconsin.</li></ol>",
+                        "<p style=\"margin-left:44px\">Regional/Local Societies</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Join the <a class=\"lk\" href=\"http://www.rootschat.com/forum/usa/\" target=\"_blank\">RootsChat forum</a> and post questions about Wisconsin research.</li><li>Explore the <a class=\"lk\" href=\"http://www.cyndislist.com/us/wi/social/\" target=\"_blank\"> Wisconsin research mailing lists</a> on Cyndi's List.</li><li>Use the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.ancestry.com/boards/localities.northam.usa.states.wisconsin/mb.ashx\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestry message boards</a> to read or post questions about Wisconsin research.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Learn about Wisconsin genealogy societies.",
+                "content": {
+                    "hidden": [
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Proficient: Make a list of Facebook groups, mailing lists, and genealogy societies of interest, and then join or subscribe to them. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Learn about genealogy societies in Wisconsin in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Wisconsin_Societies\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Wisconsin Societies</span></a></li><br><li>Explore the <a class=\"lk\" href=\"https://wsgs.org/\" target=\"_blank\">Wisconsin State Genealogical Society</a> site.</li><br><li>Explore the <a class=\"lk\" href=\"http://www.milwaukeegenealogy.org/\" target=\"_blank\">Milwaukee County Genealogical Society</a> site.</li><br><li>Explore the <a class=\"lk\" href=\"http://www.wisconsinhistory.org/libraryarchives/\" target=\"_blank\">Wisconsin Historical Society site</a>.</li><li>Explore <a class=\"lk\" href=\"http://www.cyndislist.com/us/wi/societies/\" target=\"_blank\">Wisconsin genealogy society sites</a> on Cyndi's List.</li><li>Get help at a <a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Category:Wisconsin_Family_History_Centers\" target=\"_blank\">family history center in Wisconsin</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\">Regional/Local Societies</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    }
+]

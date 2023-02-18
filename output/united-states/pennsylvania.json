@@ -1,0 +1,546 @@
+[
+    {
+        "nav_name": "Research",
+        "name": "Research and Records",
+        "section_name": "Learn about Pennsylvania research and records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Get started with research for your Pennsylvania ancestors.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Learn successful research strategies for Pennsylvania ancestors.</li><li><span class=\"g\">Record Finder</span>: Use the Record Finder to determine records for Pennsylvania research.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-pennsylvania-over.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://pixabay.com/en/independence-hall-historic-1116201/\" target=\"_blank\"> <img src=\"img/x-pennsylvania-over.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; border:1px solid #000; padding:0px;\"></a>    <li><span class=\"g\">Introduction</span>: Learn about basic Pennsylvania research strategies. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Pennsylvania_Research_Tips_and_Strategies\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Basic Pennsylvania Research Tips and Strategies</span></a><br><span class=\"star notranslate\">☆</span><a href=\"https://www.familysearch.org/help/helpcenter/lessons/pennsylvania-research-an-overview\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Pennsylvania Research: Overview—18:11</span></a></li><br><li>Learn more about Pennsylvania research. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.archives.com/experts/alzo-lisa/pennsylvania-family-history.html\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AR—Researching Your Pennsylvania Ancestors</span></a><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestryacademy.com/pennsylvania-genealogical-research-in-the-keystone-state\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AAC—Genealogical Research in the Keystone State—Video series (account required)</span></a></li><br><li>Here's a guide to tracing your Pennsylvania ancestors. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://ancestralfindings.com/pennsylvania/\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AF—Tracing Your Pennsylvania Ancestors</span></a></li><br><li>Follow this research study for Pennsylvania ancestors, from 1880 to the present. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Step-by-Step_Pennsylvania_Research,_1880-Present\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Step-by-Step Pennsylvania Research, 1880-Present</span></a></li><br><li>Read the Pennsylvania German Guide for tips on researching ancestors of German descent. <br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.americanancestors.org/tools/pennsylvania-german\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AA—Pennsylvania German Guide</span></a></li><br><li>Learn about research in colonial Pennsylvania. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Colonial_Pennsylvania\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Colonial Pennsylvania</span></a></li><br></ol>",
+                        "<h5>Records and Resources</h5>",
+                        "<ol><li><span class=\"g\">Record Finder</span>: Use the Pennsylvania Record Finder to decide on records to search. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Pennsylvania_Research_Tips_and_Strategies#Pennsylvania_Record_Finder\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Pennsylvania Record Finder</span></a></li><br><li><span class=\"g\">Ancestry</span>: Explore resources for Pennsylvania research on Ancestry. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://search.ancestry.com/Places/US/Pennsylvania/Default.aspx\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Pennsylvania Resources</span></a><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestrycdn.com/support/us/2016/11/pennsylvania.pdf\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Pennsylvania State Research Guide, 5 pgs.</span></a></li><br><li><span class=\"g\">Databases and Resources</span>: Explore online databases and sites for Pennsylvania research. <br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.thoughtco.com/pennsylvania-genealogy-online-1422267\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">TH—Pennsylvania Genealogy Online</span></a></li><br><li>Find additional Pennsylvania resources in these articles. <br><br><span class=\"star notranslate\">☆</span><a href=\"http://blog.a3genealogy.com/2017/09/resources-for-pennsylvania-research.html\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">Resources for Pennsylvania Research</span></a><br><span class=\"star notranslate\">☆</span><a href=\"https://www.americanancestors.org/tools/pennsylvania-genealogy\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AA—Pennsylvania Genealogy</span></a></li><br><li>Watch this video for finding Pennsylvania research resources. <br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.youtube.com/watch?v=xbjDPwC70_0&amp;\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AA—Resources for Pennsylvania Genealogy—61:33</span></a></li><br><li>Learn about county records available in Pennsylvania.<br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestryacademy.com/pennsylvania-genealogical-research-in-the-keystone-state/videos/county-records-introduction-and-overview\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AAC—County Records: Introduction and Overview—5:58  </span></a></li></ol>",
+                        "<h5>Additional Records</h5>",
+                        "<ol><li>Explore a variety of records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://ldsgenealogy.com/PA/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy</a> site. </li><li>Explore historical photo sites on <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/pennsylvania-online-historical-photos-research\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a>. </li><li>Explore resources for school yearbooks on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://theancestorhunt.com/blog/free-pennsylvamia-high-school-and-college-yearbooks-online/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site. </li><li>Follow these case studies for Pennsylvania research.<br><br> <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://ldsgenealogy.com/Brick-Wall-Case-Studies-7.htm\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">LDS—Verifying the family of a Pennsylvania man with a common name </span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://ldsgenealogy.com/Brick-Wall-Case-Studies-13.htm\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">LDS—Finding the family of a Pennsylvania woman with no birth record</span></a></li><br></ol>",
+                        "<h5>Ethnic</h5>",
+                        "<ol><li><span class=\"g\">African American</span>: Learn about African Americans in Pennsylvania in these FamilySearch Wiki articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/African_American_Resources_for_Pennsylvania\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: African American Resources for Pennsylvania</span></a> <br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Pennsylvania_Minorities\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Pennsylvania Minorities</span></a></li><br><li>Learn more about African American records.<br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://accessgenealogy.com/black-genealogy/pennsylvania-african-american-records.htm\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AG—Pennsylvania African American Records</span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://genealogycenter.info/africanamerican/results_afram.php?subject=PA\" target=\"_blank\">African American Gateway</a> for Pennsylvania. </li><li><span class=\"g\">Native American</span>: Learn about American Indians in Pennsylvania in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Indians_of_Pennsylvania\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Indians of Pennsylvania</span></a></li><br></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Learn about Pennsylvania state history.",
+                "content": {
+                    "hidden": [],
+                    "images": [
+                        "https://thefhguide.com/img/x-pennsylvania-his.png"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://en.wikipedia.org/wiki/File:Darlington_map_of_Pennsylvania_1680.png\" target=\"_blank\"> <img src=\"img/x-pennsylvania-his.png\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; border:1px solid #000; padding:0px;\"></a>    <li>Explore Pennsylvania historical resources on FamilySearch. <br><br> <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Pennsylvania_History\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Pennsylvania History</span></a></li><br><li>Explore Pennsylvania history on Wikipedia. <br><br> <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://en.wikipedia.org/wiki/Pennsylvania#History\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">History</span></a><br> <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://en.wikipedia.org/wiki/Category:History_of_Pennsylvania\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">History of Pennsylvania</span></a> </li><br><li>Learn about Pennsylvania history on InfoPlease.com.<br><br> <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.infoplease.com/encyclopedia/places/north-america/us/pennsylvania/history\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">Pennsylvania History</span></a></li><br></ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Archives and Libraries",
+        "name": "Archives and Libraries",
+        "section_name": "Learn about Pennsylvania archives and libraries.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Pennsylvania archives and libraries.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Explore statewide and regional collections.</li><li>Explore books and photos that can be helpful in your research.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for archives and libraries. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-pennsylvania-lib.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://commons.wikimedia.org/wiki/File:Glenside_Library_Montco_PA.jpg\" target=\"_blank\"> <img src=\"img/x-pennsylvania-lib.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 8px; margin-bottom: 16px; max-width:400px; border:1px solid #000; padding:0px;\"></a><li>Learn about Pennsylvania archives and libraries in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Pennsylvania_Archives_and_Libraries\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Pennsylvania Archives and Libraries</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://genealogysstar.blogspot.com/2018/12/Pennsylvania-state-archives-wonderful-local_13.html\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">Pennsylvania State Archives: Wonderful Local Sources for Genealogical Research</span></a></li><br><li>Learn about the online Pennsylvania state archives. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/img_auth.php/5/52/Online_Pennsylvania_State_Archives_T_Bingaman_2017-119073-I_March_2017_JMR.pdf\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Online Pennsylvania State Archives</span></a></li><br><li>Learn about finding archive records in this video.<br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestryacademy.com/pennsylvania-genealogical-research-in-the-keystone-state/videos/pennsylvania-repositories\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AAC—Pennsylvania Repositories—6:08  </span></a></li><br><li>Take advantage of resources in the Published Pennsylvania Archives. <br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.youtube.com/watch?v=bX1bHw_rE9o\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">RT—Finding Buried Treasure in the Published Pennsylvania Archives—25:12</span></a><br><br><iframe width=\"300\" height=\"200\" src=\"https://www.youtube.com/embed/bX1bHw_rE9o?rel=0\" frameallow=\"autoplay; encrypted-media\" allowfullscreen=\"\"></iframe></li><br><li>Explore the <a class=\"lk\" href=\"http://www.statearchives.us/pennsylvania.htm\" target=\"_blank\">State Archives and Libraries site</a> for Pennsylvania.</li><li>Explore the <a class=\"lk\" href=\"http://www.phmc.pa.gov/Archives/Research-Online/Pages/Research-Guides.aspx#3\" target=\"_blank\">Pennsylvania Dept of Archives</a> site.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.rootsweb.ancestry.com/~bwo/pennsylvania.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Books We Own site</a> for Pennsylvania genealogy publications. Volunteers may be available for lookup services.</li><li>Search for <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://books.familysearch.org/primo_library/libweb/action/search.do?fn=search&amp;ct=search&amp;mode=Basic&amp;tab=default_tab&amp;indx=1&amp;dum=true&amp;srt=rank&amp;vid=FHD_PUBLIC&amp;frbg=&amp;vl%28freeText0%29=pennsylvania\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">free online books on Pennsylvania research</a> on the FamilySearch site.</li><li><span class=\"g\">Photos</span>: Explore historical photo resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/pennsylvania-online-historical-photos-research\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Explore city and county directories to find Pennsylvania ancestors.</li><li>Discover the different types of information in directories, such as streets, churches, historical info, etc.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for city directories. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-pennsylvania-city.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://pixabay.com/photos/wrightsville-pennsylvania-town-108211/\" target=\"_blank\"> <img src=\"img/x-pennsylvania-city.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:400px; border:1px solid #000; padding:0px;\"></a><li>Learn about Pennsylvania city directories in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Pennsylvania_Directories\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Pennsylvania Directories</span></a></li><br><li><span class=\"g\">Sites</span>: Explore <a class=\"lk\" href=\"https://theancestorhunt.com/blog/free-online-pennsylvania-city-directories/\" target=\"_blank\">Pennsylvania city directories</a> on the Ancestor Hunt site.</li><li>Find out more about city directories in this research guide from Ancestry. <br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestrycdn.com/legacy/offer/learning-center/2012/city_directories_short.pdf\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Six Things to Find—3 pgs.</span></a></li><br><li>Explore Pennsylvania city directories on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://search.ancestry.com/search/db.aspx?dbid=2469\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestry site</a>.</li><li>Explore Pennsylvania <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://sites.google.com/site/onlinedirectorysite/Home/usa/pa\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">historical directories</a> by county.</li><li>Explore additional links for Pennsylvania city directories on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/PA/City-Directories.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Vital and Census Records",
+        "name": "Vital and Census Records",
+        "section_name": "Learn about Pennsylvania vital and census records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Pennsylvania vital records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find online resources for vital records.</li><li>Learn the history of vital records in the state of Pennsylvania.</li><li>Learn about alternates for vital records in Pennsylvania.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for vital records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-pennsylvania-vit.JPG"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/x-pennsylvania-vit.JPG\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px;\"><li>Learn about Pennsylvania vital records. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Pennsylvania_Vital_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Pennsylvania Vital Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Pennsylvania_Vital_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: Pennsylvania Vital Records</span></a> <span class=\"star notranslate\">☆</span><a href=\"https://www.familysearch.org/help/helpcenter/lessons/pennsylvania-research-vital-and-church-records\" target=\"_blank\"><br> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">FS—Vital and Church Records—19:21<br></span></a></li><br><li>Get started with Pennsylvania vital records in this video.<br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestryacademy.com/pennsylvania-genealogical-research-in-the-keystone-state/videos/vital-records\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AAC—Vital Records—10:49  </span></a></li><br><li>Explore links for vital records on the <a class=\"lk\" href=\"http://www.health.pa.gov/MyRecords/Certificates/Pages/11596.aspx#.V1xP_7srKM8\" target=\"_blank\">Pennsylvania Public Health site</a>.</li><li>Search for online Pennsylvania <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.vitalrecordsus.com/pennsylvania-vital-records.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">vital records</a> and find addresses for state offices to write to for records.</li><li>Explore Pennsylvania birth, marriage, and death records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.accessgenealogy.com/pennsylvania/pennsylvania-vital-records.htm#content\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">AccessGenealogy site.</a></li><li>Explore additional links for Pennsylvania vital records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-pa-genealogy/vr/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium site</a> and the <a class=\"lk\" href=\"https://www.genealogybranches.com/pennsylvania.html\" target=\"_blank\">Genealogy Branches site</a>.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find birth records for Pennsylvania ancestors.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for birth and adoption records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-pennsylvania-birth.png"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://www.familysearch.org/wiki/en/File:PA_birth_2.png\" target=\"_blank\"> <img src=\"img/x-pennsylvania-birth.png\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000; padding:0px;\"></a><li>Learn how to find Pennsylvania birth records in this article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/How_to_Find_Pennsylvania_Birth_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: How to Find Pennsylvania Birth Records</span></a></li><br><li>Explore additional links for Pennsylvania birth records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/PA/Birth-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Explore Pennsylvania marriage records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find marriage records for Pennsylvania ancestors.</li><li>Find obituaries, death records, and death indexes for Pennsylvania ancestors.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for marriage and divorce records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-pennsylvania-marr.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"img/x-pennsylvania-marr.jpg\" target=\"_blank\"> <img src=\"img/x-pennsylvania-marr.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000;\"></a><li>Learn how to find <a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/How_to_Find_Pennsylvania_Marriage_Records\" target=\"_blank\">Pennsylvania marriage records</a> with FamilySearch.</li><li>Explore links for <a class=\"lk\" href=\"http://www.idreamof.com/marriage/pa.html\" target=\"_blank\">Pennsylvania marriage records</a>.</li><li>Explore additional links for Pennsylvania marriage records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/PA/Marriage-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Explore Pennsylvania obituaries and death records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find obituaries for Pennsylvania ancestors.</li><li>Find death records and death indexes for Pennsylvania ancestors.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for obituary and death records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-pennsylvania-death.png"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://www.familysearch.org/wiki/en/File:PA_death_1.png\" target=\"_blank\"> <img src=\"img/x-pennsylvania-death.png\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000; padding:0px;\"></a><li>Explore the <a class=\"lk\" href=\"http://obituarieshelp.org/pennsylvania_newspaper_obituaries.html\" target=\"_blank\">ObituariesHelp site</a> for Pennsylvania obituaries.</li><li>Explore <a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/free-pennsylvania-obituaries-and-obituary-index-links\" target=\"_blank\">The Ancestor Hunt </a> for obituaries.</li><li>Search for obituaries by county on the <a class=\"lk\" href=\"https://www.newspaperobituaries.net/pennsylvania/index.html\" target=\"_blank\">Newspaperobituaries.net site</a>.</li><li>Find additional resources for Pennsylvania obituaries on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-pa-genealogy/obits/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium site</a>.</li></ol>",
+                        "<h5>Pennsylvania Death Records</h5>",
+                        "<ol><li>Learn how to find Pennsylvania death records in this article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/How_to_Find_Pennsylvania_Death_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: How to Find Pennsylvania Death Records</span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://ancestorsatrest.com/pennsylvania.shtml\" target=\"_blank\">Ancestors at Rest site</a> for Pennsylvania death records.</li><li>Explore Pennsylvania <a class=\"lk\" href=\"http://www.deathindexes.com/pennsylvania/index.html\" target=\"_blank\">death records, indexes, and obituaries</a>.</li><li>Explore additional links for Pennsylvania death records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/PA/Death-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Explore Pennsylvania census and voter records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Explore state and county census records for Pennsylvania ancestors.</li><li>Find voter registration records in Pennsylvania.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for census and voter records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/4-pennsylvania.png"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/4-pennsylvania.png\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000; padding:0px;\"><li>Get an overview of Pennsylvania censuses in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Pennsylvania_Census\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Pennsylvania Census</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Census_Records_for_Pennsylvania\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Pennsylvania Census Records</span></a></li><br><li>Get started with Pennsylvania census records in this video.<br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestryacademy.com/pennsylvania-genealogical-research-in-the-keystone-state/videos/census-records\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AAC—Census Records—5:06  </span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://www.myfreecensus.com/pennsylvania-census-records.htm\" target=\"_blank\">MyFreeCensus site</a> for Pennsylvania state and county census records.</li><li>Explore additional links for Pennsylvania census records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/PA/Census-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore Pennsylvania census records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.accessgenealogy.com/pennsylvania/pennsylvania-census-records.htm#content\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">AccessGenealogy site.</a></li><li>Learn about Pennsylvania voting registers in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Pennsylvania_Voting_Registers\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Pennsylvania Voting Registers</span></a></li><br></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Church and Cemetery Records",
+        "name": "Church and Census Records",
+        "section_name": "Learn about Pennsylvania church and cemetery records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Pennsylvania church records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find Pennsylvania church information by denomination.</li><li>Search Pennsylvania church records at the county level.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for church records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-pennsylvania-church1.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://commons.wikimedia.org/wiki/File:Grove_Methodist_Church_Chester_County_PA.JPG\" target=\"_blank\"> <img src=\"img/x-pennsylvania-church1.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000;\"></a><li>Get an overview of Pennsylvania church records in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Pennsylvania_Church_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Pennsylvania Church Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Pennsylvania_Church_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Pennsylvania Church Records</span></a></li><br><li>Explore additional links for Pennsylvania church records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/PA/Church-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore church record resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.theancestorhunt.com/blog/free-pennsylvania-online-church-records\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find cemetery records for Pennsylvania ancestors from a number of sources.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for cemetery records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-pennsylvania-cem.JPG"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://commons.wikimedia.org/wiki/File:Friedensaal_Cemetery_7_Valleys_PA.JPG\" target=\"_blank\"> <img src=\"img/x-pennsylvania-cem.JPG\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px;\"></a>  <li>Explore Pennsylvania cemetery records in this article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Pennsylvania_Cemeteries\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Pennsylvania Cemetery Records</span></a> </li><br><li>Browse the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.interment.net/us/pa/index.htm\" target=\"_blank\"><img src=\"../img/d.png\" width=\"2\">Interment.net site</a> for Pennsylvania cemetery records.</li><li>Search for <a class=\"lk\" href=\"http://www.idreamof.com/cemetery/pa.html\" target=\"_blank\">Pennsylvania cemetery records</a> online.</li><li>Explore Pennsylvania cemetery records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.accessgenealogy.com/cemetery/pennsylvania-cemetery-records.htm#content\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">AccessGenealogy site.</a></li><li>Explore additional links for Pennsylvania cemetery records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/PA/Cemetery-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://usgwtombstones.org/pennsylvania/pennsylvania.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Tombstone Transcription Project</a> on the U.S. GenWeb site.</li><li>Search the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.findagrave.com/cemetery-browse/USA/Pennsylvania?id=state_40\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Find A Grave site</a> for cemetery records.</li><li>Search the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://billiongraves.com/site-map?country=United+States&amp;state=Pennsylvania\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">BillionGraves site</a> for cemetery records.</li><li>See additional cemetery resources on the Pennsylvania <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-pa-genealogy/cem\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium site</a>.</li><li>Explore <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://africanamericancemeteries.com/pa/\" target=\"_blank\"><img src=\"../img/d.png\" width=\"2\">African American cemetery records</a> in Pennsylvania.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Emigration and Immigration",
+        "name": "Emigration and Immigration",
+        "section_name": "Learn about Pennsylvania emigration and immigration.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Pennsylvania emigration and immigration.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Learn about the history of, and locations for, Pennsylvania immigration.</li><li>Find migration and travel routes for Pennsylvania ancestors.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for emigrarion and immigration records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/4-pennsylvania.png"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/4-pennsylvania.png\" alt=\"\" width=\"100%\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; \"><li>Learn about Pennsylvania emigration and immigration in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Pennsylvania_Emigration_and_Immigration\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Pennsylvania Emigration and Immigration</span></a></li><br><li>Learn about Pennsylvania migration routes in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Pennsylvania_Migration\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Pennsylvania Migration</span></a></li><br><li>Explore additional links for Pennsylvania immigration records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/PA/Immigration-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore naturalization resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.theancestorhunt.com/blog/free-pennsylvania-online-naturalization-records\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Military Records",
+        "name": "Military Records",
+        "section_name": "Learn about Pennsylvania military records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Pennsylvania military records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find online resources for Pennsylvania ancestors in the military.</li><li>Search for Pennsylvania military records by war or conflict.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for military records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/y-us-flag.jpg"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/y-us-flag.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; border:1px solid #000; padding:0px;\"><li>Learn about Pennsylvania military records in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Pennsylvania_Military_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Pennsylvania Military Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Pennsylvania_Military_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: Pennsylvania Military Records</span></a></li><br><li>Learn how to find Pennsylvania military records online. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.legacytree.com/blog/pennsylvania-military-records-can-be-found-online\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">LT: This Is Not a Drill: Pennsylvania Military Records Can Be Found Online!</span></a></li><br><li>Learn about finding Pennsylvania military records in this video.<br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestryacademy.com/pennsylvania-genealogical-research-in-the-keystone-state/videos/military-records\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AAC—Military—3:57  </span></a></li><br><li>Explore Pennsylvania military records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.accessgenealogy.com/pennsylvania-genealogy#content\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">AccessGenealogy site</a> (scroll down).</li><li>Explore Pennsylvania military records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-pa-genealogy/mil/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium site</a>.</li><li>Explore additional links for Pennsylvania military records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/PA/Military-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore Pennsylvania military records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://genealogytrails.com/penn/military/index.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Genealogy Trails site</a>.</li><li>Explore <a class=\"lk\" href=\"http://www.cyndislist.com/us/pa/military/\" target=\"_blank\">Pennsylvania military resources</a> on Cyndi's List.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Probate, Land and Court",
+        "name": "Probate, Land and Court",
+        "section_name": "Learn about Pennsylvania probate, land, and court records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Pennsylvania probate and land records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find probate records at the county level.</li><li>Learn about the history of land and property claims in Pennsylvania.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles or videos in this Choice, write down key learnings for probate and court records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-pennsylvania-land.jpg"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/x-pennsylvania-land.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; border:1px solid #000; padding:0px;\"><li>Learn about Pennsylvania probate records in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Pennsylvania_Probate_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Pennsylvania Probate Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php?title=Pennsylvania_Probate_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: Pennsylvania Probate Records</span></a></li><br><li>Explore additional links for Pennsylvania probate records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/PA/Probate-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore probate records and wills on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.theancestorhunt.com/blog/free-pennsylvania-probate-records-and-wills\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li><li>Learn about Pennsylvania land and property records. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Pennsylvania_Land_and_Property\" target=\"_blank\"><img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Pennsylvania Land and Property Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Pennsylvania_Land_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Pennsylvania Land Records</span></a></li><br><li>Get started with land records in this video.<br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestryacademy.com/pennsylvania-genealogical-research-in-the-keystone-state/videos/land-records\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AAC—Land Records—4:32  </span></a></li><br><li>Go deeper into Pennsylvania land records in this video. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/help/helpcenter/lessons/pennsylvania-research-land-records-field-of-dreams\" target=\"_blank\"><img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">FS—Pennsylvania Research: Land Records: Field of Dreams—24:56</span></a></li><br><li>Explore additional links for Pennsylvania land records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/PA/Land-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Learn about the history of court records in Pennsylvania and where to find them.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-pennsylvania-court.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://pixabay.com/photos/county-courthouse-luzerne-county-634732/\" target=\"_blank\"> <img src=\"img/x-pennsylvania-court.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:400px; border:1px solid #000; padding:0px;\"></a><li>Learn about Pennsylvania court records in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Pennsylvania_Court_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Pennsylvania Court Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Pennsylvania_Court_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"><span class=\"re\">AC—Wiki: Pennsylvania Court Records</span></a></li><br><li>Explore records for district and circuit courts on the <a class=\"lk\" href=\"https://www.archives.gov/philadelphia/\" target=\"_blank\">National Archives site</a>.</li><li>Learn more about Pennsylvania court and probate records. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/help/helpcenter/lessons/pennsylvania-research-county-court-and-probate-records\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">FS—Pennsylvania Research: County Court and Probate Records—21:48</span></a></li><br><li>Watch these videos to learn about court records in Pennsylvania.<br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestryacademy.com/pennsylvania-genealogical-research-in-the-keystone-state/videos/county-records-a-trip-to-the-courthouse-part-1\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AAC—County Records: A Trip to the Courthouse, Part 1—5:43 </span></a><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestryacademy.com/pennsylvania-genealogical-research-in-the-keystone-state/videos/county-records-a-trip-to-the-courthouse-part-2\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AAC—County Records: A Trip to the Courthouse, Part 2—7:44  </span></a></li><br><li>Watch these videos to learn about tax records in Pennsylvania.<br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestryacademy.com/pennsylvania-genealogical-research-in-the-keystone-state/videos/federal-tax-records\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AAC—Federal Tax Records—7:32 </span></a><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestryacademy.com/pennsylvania-genealogical-research-in-the-keystone-state/videos/county-and-state-tax-records\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AAC—County and State Tax Records—5:01  </span></a></li><br><li>Explore school record resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.theancestorhunt.com/blog/free-pennsylvania-online-school-records\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li><li>Explore resources for orphans on the <a class=\"lk\" href=\"https://orphanfinder.com/state-search/pennsylvania/\" target=\"_blank\">OrphanFinder</a> site.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Maps and Gazetteers",
+        "name": "Maps and Gazetteers",
+        "section_name": "Learn about Pennsylvania maps and gazetteers.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Pennsylvania maps and gazetteers.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Learn about the history of Pennsylvania maps.</li><li>Find out how Pennsylvania gazetteers can help you in your research.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for maps and gazetteers. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-pennsylvania-map.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://commons.wikimedia.org/wiki/File:1857_Colton_Map_of_Pennsylvania_-_Geographicus_-_Pennsylvania-colton-1857.jpg\" target=\"_blank\"> <img src=\"img/x-pennsylvania-map.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px;\"></a> <li>Learn about Pennsylvania maps in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Pennsylvania_Maps\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Pennsylvania Maps</span></a><br><span class=\"star notranslate\">☆</span><a href=\"https://wiki.rootsweb.com/wiki/index.php/Pennsylvania_Maps\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: Pennsylvania Maps</span></a>  </li><br><li>Learn about Pennsylvania gazetteers in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Pennsylvania_Gazetteers\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Pennsylvania Gazetteers</span></a></li><br><li>Access interactive maps and atlases of Pennsylvania on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.mapofus.org/Pennsylvania/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">MapsofUS site</a>.</li><li>Find Pennsylvania towns and communities on the <a class=\"lk\" href=\"https://roadsidethoughts.com/pa/index-a.htm\" target=\"_blank\">RoadsideThoughts site</a>.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.davidrumsey.com/luna/servlet/view/search?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&amp;q=pennsylvania&amp;search=Go\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">David Rumsey collection</a> of Pennsylvania maps.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.lib.utexas.edu/maps/pennsylvania.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Perry-Castaneda site</a> for maps of Pennsylvania.</li><li>Explore <a class=\"lk\" href=\"http://www.historicmapworks.com/Browse/United_States/Pennsylvania/\" target=\"_blank\">historical Pennsylvania maps</a> on the Historic Map Works site.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.oldmapsonline.org/en/Pennsylvania\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Old Maps Online site</a> for Pennsylvania maps.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://commons.wikimedia.org/wiki/Category:Old_maps_of_Pennsylvania\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Old Maps of Pennsylvania</a> on the Wikipedia site.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Newspapers",
+        "name": "Newspapers",
+        "section_name": "Learn about Pennsylvania newspapers.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Pennsylvania newspapers.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Discover the history of Pennsylvania newspapers.</li><li>Learn more about how to use Pennsylvania periodical and manuscripts.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        }
+                    ],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Learn about Pennsylvania newspapers in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Pennsylvania_Newspapers\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Pennsylvania Newspapers</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Pennsylvania_Periodicals,_Newspapers,_and_Manuscript_Collections\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: Pennsylvania Periodicals, Newspapers, and Manuscripts</span></a></li><br></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find research clues in the Library of Congress historical newspaper collection.</li><li>Search Pennsylvania online newspaper sites.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for newspaper records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/y-newspaper.png"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/y-newspaper.png\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; border:1px solid #000; padding:0px;\"><li>Search for <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://chroniclingamerica.loc.gov/search/titles/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Pennsylvania  historical newspapers</a> in the Library of Congress collection.</li><li>Find links to <a class=\"lk\" href=\"https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives#Pennsylvania\" target=\"_blank\"> Pennsylvania newspapers</a> on the Wikipedia site.</li> <li>Search the <a class=\"lk\" href=\"https://sites.google.com/site/onlinenewspapersite/Home/usa/pa\" target=\"_blank\">Pennsylvania Online Historical Newspapers</a> site.</li><li>Explore Pennsylvania newspaper resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/pennsylvania-online-historical-newspapers-summary\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li><li>See additional Pennsylvania newspaper resources on the <a class=\"lk\" href=\"http://www.linkpendium.com/all-pa-genealogy/news/\" target=\"_blank\">Linkpendium</a> site.</li><li>Explore additional links for Pennsylvania newspapers and obituaries on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/PA/Newspapers-and-Obituaries.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Websites",
+        "name": "Websites",
+        "section_name": "Explore additional websites for research.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "There are a number of websites with valuable resources for Pennsylvania research.",
+                "content": {
+                    "hidden": [],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Explore links in <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.cyndislist.com/us/pa/general/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Cyndi's List</a>.</li><li>Explore links in <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-pa-genealogy/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium</a>.</li><li>Explore links in <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.genealogylinks.net/usa/pennsylvania/index.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Genealogylinks.net</a>.</li> <li>Explore links in <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/PA/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy.com</a>.</li> </ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Search Records",
+        "name": "Search Records",
+        "section_name": "Search records from Pennsylvania.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Use the QUIKLinks (lightning bolts) or Pennsylvania County links (bottom) to quickly search common record collections for Pennsylvania.",
+                "content": {
+                    "hidden": [],
+                    "images": [],
+                    "text": [
+                        "<p><i>Note</i> : To search records on these sites, you must be registered on the site or be at a FamilySearch Center.</p>",
+                        "<ol><li>In the QUIKLinks, click the link for FamilySearch, Ancestry, Findmypast, or MyHeritage to view the corresponding record collection.</li><li>Scroll down near the bottom of this page to see available county records. Click the name of the county for FamilySearch, or A for Ancestry, or L for Linkpendium.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Explore additional record collections.",
+                "content": {
+                    "hidden": [],
+                    "images": [],
+                    "text": [
+                        "<ol><li>In FamilySearch, explore the <a class=\"lk\" href=\"https://familysearch.org/wiki/en/Pennsylvania_Online_Genealogy_Records\">Pennsylvania Online Genealogy Records page</a> for a variety of record collections.</li><li>In each program (FamilySearch, Ancestry, or Findmypast), explore additional record collections besides the ones listed in QUIKLinks.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Get Help",
+        "name": "Get Help",
+        "section_name": "Get help with your Pennsylvania research.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Use Facebook pages to get answers to your questions.",
+                "content": {
+                    "hidden": [],
+                    "images": [
+                        "https://thefhguide.com/img/fh-help3.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"img/fh-help3.jpg\" target=\"_blank\"> <img src=\"img/fh-help3.jpg\" alt=\"\" width=\"350px\" style=\"float:right; margin-top: 16px; margin-left: 16px; border:1px solid #000; padding:0px;\"></a>  <li>Visit the <a class=\"lk\" href=\"https://www.facebook.com/groups/123343704418143/\" target=\"_blank\">Pennsylvania Genealogy Network page</a> on Facebook.</li><li>Visit the <a class=\"lk\" href=\"https://www.facebook.com/PennsylvaniaGenealogyRecords/\" target=\"_blank\">Pennsylvania Genealogy page</a> on Facebook.</li><li>Visit the <a class=\"lk\" href=\"https://www.facebook.com/groups/PennsylvaniaGenealogyJustAsk\" target=\"_blank\">Pennsylvania Genealogy - Just Ask! page</a> on Facebook.</li><li>See the <a class=\"lk\" href=\"http://socialmediagenealogy.com/genealogy-on-facebook-list/\" target=\"_blank\">Genealogy on Facebook list</a> of Facebook groups dedicated to helping with research for Pennsylvania.</li></ol>",
+                        "<p style=\"margin-left:44px\">Regional Groups</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Join the <a class=\"lk\" href=\"http://www.rootschat.com/forum/usa/\" target=\"_blank\">RootsChat forum</a> and post questions about Pennsylvania research.</li><li>Explore the <a class=\"lk\" href=\"http://www.cyndislist.com/us/pa/social/\" target=\"_blank\"> Pennsylvania research mailing lists</a> on Cyndi's List.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://community.familysearch.org/s/group/0F93A000000LiXPSA0/pennsylvania\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">FamilySearch community</a> for help with Pennsylvania research.</li><li>Use the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.ancestry.com/boards/localities.northam.usa.states.pennsylvania/mb.ashx\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestry message boards</a> to read or post questions about Pennsylvania research.</li><li>Explore Pennsylvania research questions in the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://genealogy.stackexchange.com/questions/tagged/pennsylvania\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Genealogy Stack Exchange</a>.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Learn about Pennsylvania genealogy societies.",
+                "content": {
+                    "hidden": [
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Proficient: Make a list of Facebook groups, mailing lists, and genealogy societies of interest, and then join or subscribe to them. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Explore the <a class=\"lk\" href=\"http://genpa.org/\" target=\"_blank\">Genealogy Society of Pennsylvania</a> site.</li><li>Learn about genealogy societies in Pennsylvania in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Pennsylvania_Societies\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Pennsylvania Societies</span></a></li><br><li>Visit the <a class=\"lk\" href=\"https://www.facebook.com/pages/Genealogical-Society-of-Pennsylvania/132439566792058\" target=\"_blank\">Genealogical Society of Pennsylvania page</a> on Facebook.</li><li>Explore <a class=\"lk\" href=\"http://www.cyndislist.com/us/pa/societies/\" target=\"_blank\">Pennsylvania genealogy society sites</a> on Cyndi's List.</li><li>Get help at a <a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Category:Pennsylvania_Family_History_Centers\" target=\"_blank\">family history center in Pennsylvania</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\">Regional Groups</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    }
+]

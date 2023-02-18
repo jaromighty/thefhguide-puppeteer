@@ -1,0 +1,538 @@
+[
+    {
+        "nav_name": "Research",
+        "name": "Research and Records",
+        "section_name": "Learn about Missouri research and records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Get started with research for your Missouri ancestors.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Learn successful research strategies for Missouri ancestors.</li><li><span class=\"g\">Record Finder</span>: Use the Record Finder to determine records for Missouri research.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-missouri-over.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://pixabay.com/en/gateway-arch-kiener-plaza-1247661/\" target=\"_blank\"> <img src=\"img/x-missouri-over.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; border:1px solid #000; padding:0px;\"></a>    <li><span class=\"g\">Introduction</span>: Learn about basic Missouri research strategies. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Missouri_Research_Tips_and_Strategies\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Basic Missouri Research Tips and Strategies</span></a></li><br><li>Get an overview of Missouri research in this video. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/help/helpcenter/lessons/united-states-research-midwest-region-missouri-overview\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">FS—Missouri Overview—1:44</span></a></li><br><li>Follow this research study for Missouri ancestors, from 1880 to the present. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Step-by-Step_Missouri_Research,_1880-Present\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Step-by-Step Missouri Research, 1880-Present</span></a></li><br><li><span class=\"g\">Ancestry</span>: Explore resources for Missouri research on Ancestry. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://search.ancestry.com/Places/US/Missouri/Default.aspx\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Missouri Resources</span></a><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestrycdn.com/support/us/2016/11/missouri.pdf\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Missouri State Research Guide, 5 pgs.</span></a></li><br><li><span class=\"g\">Record Finder</span>: Use the Missouri Record Finder to decide on records to search. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Missouri_Research_Tips_and_Strategies#Missouri_Record_Finder\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Missouri Record Finder</span></a></li><br><h5>Additional Records</h5><ol><li>Explore a variety of records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://ldsgenealogy.com/MO/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy</a> site. </li><li>Explore historical photo sites on <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/missouri-online-historical-photos-research\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a>. </li><li>Explore resources for school yearbooks on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://theancestorhunt.com/blog/free-missouri-high-school-and-college-yearbooks-online/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site. </li><li>Follow this case study for Missouri research.<br><br> <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://ldsgenealogy.com/Brick-Wall-Case-Studies-1.htm\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">LDS—Finding a family's address in St Louis</span></a></li><br></ol><br><h5>Ethnic</h5><ol><li><span class=\"g\">African American</span>: Learn about African Americans in Missouri in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/African_American_Resources_for_Missouri\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: African American Resources for Missouri</span></a></li><br><li>Learn more about African American records.<br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://accessgenealogy.com/black-genealogy/missouri-african-american-records.htm\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AG—Missouri African American Records</span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://genealogycenter.info/africanamerican/results_afram.php?subject=MO\" target=\"_blank\">African American Gateway</a> for Missouri. </li><li><span class=\"g\">Native American</span>: Learn about American Indians in Missouri in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Indians_of_Missouri\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Indians of Missouri</span></a></li><br></ol><br></ol>",
+                        "<h5>Additional Records</h5>",
+                        "<ol><li>Explore a variety of records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://ldsgenealogy.com/MO/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy</a> site. </li><li>Explore historical photo sites on <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/missouri-online-historical-photos-research\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a>. </li><li>Explore resources for school yearbooks on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://theancestorhunt.com/blog/free-missouri-high-school-and-college-yearbooks-online/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site. </li><li>Follow this case study for Missouri research.<br><br> <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://ldsgenealogy.com/Brick-Wall-Case-Studies-1.htm\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">LDS—Finding a family's address in St Louis</span></a></li><br></ol>",
+                        "<h5>Ethnic</h5>",
+                        "<ol><li><span class=\"g\">African American</span>: Learn about African Americans in Missouri in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/African_American_Resources_for_Missouri\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: African American Resources for Missouri</span></a></li><br><li>Learn more about African American records.<br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://accessgenealogy.com/black-genealogy/missouri-african-american-records.htm\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AG—Missouri African American Records</span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://genealogycenter.info/africanamerican/results_afram.php?subject=MO\" target=\"_blank\">African American Gateway</a> for Missouri. </li><li><span class=\"g\">Native American</span>: Learn about American Indians in Missouri in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Indians_of_Missouri\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Indians of Missouri</span></a></li><br></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Learn about Missouri state history.",
+                "content": {
+                    "hidden": [],
+                    "images": [
+                        "https://thefhguide.com/img/x-missouri-his.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://en.wikipedia.org/wiki/File:George_Caleb_Bingham_001.jpg\" target=\"_blank\"> <img src=\"img/x-missouri-his.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; border:1px solid #000; padding:0px;\"></a>    <li>Explore Missouri historical resources on FamilySearch. <br><br> <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Missouri_History\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Missouri History</span></a></li><br><li>Explore Missouri history on Wikipedia. <br><br> <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://en.wikipedia.org/wiki/Missouri#History\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">History</span></a><br> <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://en.wikipedia.org/wiki/Category:History_of_Missouri\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">History of Missouri</span></a> </li><br><li>Learn about Missouri history on InfoPlease.com.<br><br> <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.infoplease.com/encyclopedia/places/north-america/us/missouri-state-united-states/history\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">Missouri History</span></a></li><br></ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Archives and Libraries",
+        "name": "Archives and Libraries",
+        "section_name": "Learn about Missouri archives and libraries.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Missouri archives and libraries.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Explore statewide and regional collections.</li><li>Explore books and photos that can be helpful in your research.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for archives and libraries. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-missouri-lib.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://commons.wikimedia.org/wiki/File:Public_library,_Kansas_City,_Mo._-_LOC_4a13244a.jpg\" target=\"_blank\"> <img src=\"img/x-missouri-lib.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px;\"></a><li>Learn about Missouri archives and libraries in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Missouri_Archives_and_Libraries\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Missouri Archives and Libraries</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://genealogysstar.blogspot.com/2018/12/Missouri-state-archives-wonderful-local_13.html\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">Missouri State Archives: Wonderful Local Sources for Genealogical Research</span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://www.statearchives.us/missouri.htm\" target=\"_blank\">State Archives and Libraries site</a> for Missouri.</li><li>Explore <a class=\"lk\" href=\"https://s1.sos.mo.gov/records/archives/archivesdb/birthdeath/\" target=\"_blank\">Missouri Dept. of Archives</a> collection.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.rootsweb.ancestry.com/~bwo/missouri.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Books We Own site</a> for Missouri genealogy publications. Volunteers may be available for lookup services.</li><li>Search for <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://books.familysearch.org/primo_library/libweb/action/search.do?fn=search&amp;ct=search&amp;mode=Basic&amp;tab=default_tab&amp;indx=1&amp;dum=true&amp;srt=rank&amp;vid=FHD_PUBLIC&amp;frbg=&amp;vl%28freeText0%29=missouri\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">free online books on Missouri research</a> on the FamilySearch site.</li><li><span class=\"g\">Photos</span>: Explore historical photo resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/missouri-online-historical-photos-research\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Explore city and county directories to find Missouri ancestors.</li><li>Discover the different types of information in directories, such as streets, churches, historical info, etc.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for city directories. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-missouri-city.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://pixabay.com/photos/missouri-st-louis-usa-town-347387/\" target=\"_blank\"> <img src=\"img/x-missouri-city.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:400px; border:1px solid #000; padding:0px;\"></a><li>Learn about Missouri city directories in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Missouri_Directories\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Missouri Directories</span></a></li><br><li><span class=\"g\">Sites</span>: Explore <a class=\"lk\" href=\"https://theancestorhunt.com/blog/free-online-missouri-city-directories/\" target=\"_blank\">Missouri city directories</a> on the Ancestor Hunt site.</li><li>Find out more about city directories in this research guide from Ancestry. <br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestrycdn.com/legacy/offer/learning-center/2012/city_directories_short.pdf\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Six Things to Find—3 pgs.</span></a></li><br><li>Explore Missouri city directories on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://search.ancestry.com/search/db.aspx?dbid=2469\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestry site</a>.</li><li>Explore Missouri <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://sites.google.com/site/onlinedirectorysite/Home/usa/mo\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">historical directories</a> by county.</li><li>Explore additional links for Missouri city directories on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/MO/City-Directories.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Vital and Census Records",
+        "name": "Vital and Census Records",
+        "section_name": "Learn about Missouri vital and census records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Missouri vital records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find online resources for vital records.</li><li>Learn the history of vital records in the state of Missouri.</li><li>Learn about alternates for vital records in Missouri.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for vital records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-missouri-vit.jpg"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/x-missouri-vit.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 8px; margin-bottom: 16px; max-width:400px; border:1px solid #000; padding:0px;\"><li>Learn about Missouri vital records in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Missouri_Vital_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Missouri Vital Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Missouri_Vital_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: Missouri Vital Records</span></a></li><br><li>Explore links for vital records on the <a class=\"lk\" href=\"http://health.mo.gov/data/vitalrecords/index.php\" target=\"_blank\">Missouri Public Health site</a>.</li><li>Search for online Missouri <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.vitalrecordsus.com/missouri-vital-records.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">vital records</a> and find addresses for state offices to write to for records.</li><li>Explore Missouri birth, marriage, and death records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.accessgenealogy.com/missouri/missouri-vital-records.htm#content\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">AccessGenealogy site.</a></li><li>Explore additional links for Missouri vital records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-mo-genealogy/vr/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium site</a> and the <a class=\"lk\" href=\"https://www.genealogybranches.com/missouri.html\" target=\"_blank\">Genealogy Branches site</a>.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find birth and adoption records for Missouri ancestors.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for birth and adoption records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Learn how to find Missouri birth records in this article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/How_to_Find_Missouri_Birth_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: How to Find Missouri Birth Records</span></a></li><br><li>Get help with adoption topics on the <a class=\"lk\" href=\"https://www.facebook.com/MissouriAdopteeRightsMovement/\" target=\"_blank\">Missouri Adoptee Rights</a> Facebook page.</li><li>Explore additional links for Missouri birth records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/MO/Birth-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Explore Missouri marriage records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find marriage records for Missouri ancestors.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for marriage and divorce records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-missouri-marr.png"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://www.familysearch.org/wiki/en/File:Missouri_marriage_1.png\" target=\"_blank\"> <img src=\"img/x-missouri-marr.png\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000; padding:0px;\"></a><li>Learn how to find <a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/How_to_Find_Missouri_Marriage_Records\" target=\"_blank\">Missouri marriage records</a> with FamilySearch.</li><li>Explore links for <a class=\"lk\" href=\"http://www.idreamof.com/marriage/mo.html\" target=\"_blank\">Missouri marriage records</a>.</li><li>Explore additional links for Missouri marriage records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/MO/Marriage-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Explore Missouri obituaries and death records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find obituaries for Missouri ancestors.</li><li>Find death records and death indexes for Missouri ancestors.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for obituary and death records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-missouri-deaths.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"img/x-missouri-deaths.jpg\" target=\"_blank\"> <img src=\"img/x-missouri-deaths.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000;\"></a><li>Explore the <a class=\"lk\" href=\"http://obituarieshelp.org/missouri_newspaper_obituaries.html\" target=\"_blank\">ObituariesHelp site</a> for Missouri obituaries.</li><li>Explore <a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/free-missouri-obituaries-and-obituary-index-links\" target=\"_blank\">The Ancestor Hunt </a> for obituaries.</li><li>Search for obituaries by county on the <a class=\"lk\" href=\"https://www.newspaperobituaries.net/missouri/index.html\" target=\"_blank\">Newspaperobituaries.net site</a>.</li><li>Find additional resources for Missouri obituaries on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-mo-genealogy/obits/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium site</a>.</li></ol>",
+                        "<h5>Missouri Death Records</h5>",
+                        "<ol><li>Learn how to find Missouri death records in this article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/How_to_Find_Missouri_Death_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: How to Find Missouri Death Records</span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://ancestorsatrest.com/missouri.shtml\" target=\"_blank\">Ancestors at Rest site</a> for Missouri death records.</li><li>Explore Missouri <a class=\"lk\" href=\"http://www.deathindexes.com/missouri/index.html\" target=\"_blank\">death records, indexes, and obituaries</a>.</li><li>Explore additional links for Missouri death records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/MO/Death-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Explore Missouri census and voter records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Explore state and county census records for Missouri ancestors.</li><li>Find voter registration records in Missouri.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for census and voter records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/4-missouri.png"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/4-missouri.png\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000; padding:0px;\"><li>Get an overview of Missouri censuses in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Missouri_Census\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Missouri Census</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Census_Records_for_Missouri\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Missouri Census Records</span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://www.myfreecensus.com/missouri-census-records.htm\" target=\"_blank\">MyFreeCensus site</a> for Missouri state and county census records.</li><li>Explore additional links for Missouri census records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/MO/Census-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore Missouri census records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.accessgenealogy.com/missouri/missouri-census-records.htm#content\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">AccessGenealogy site.</a></li><li>Learn about Missouri voting registers in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Missouri_Voting_Registers\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Missouri Voting Registers</span></a></li><br></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Church and Cemetery Records",
+        "name": "Church and Census Records",
+        "section_name": "Learn about Missouri church and cemetery records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Missouri church records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find Missouri church information by denomination.</li><li>Search Missouri church records at the county level.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for church records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-missouri-church.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://commons.wikimedia.org/wiki/File:Gfp-missouri-st-louis-chapel-at-wash-u.jpg\" target=\"_blank\"> <img src=\"img/x-missouri-church.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000;\"></a><li>Get an overview of Missouri church records in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Missouri_Church_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Missouri Church Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Missouri_Church_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Missouri Church Records</span></a></li><br><li>Explore additional links for Missouri church records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/MO/Church-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore church record resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.theancestorhunt.com/blog/free-missouri-online-church-records\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find cemetery records for Missouri ancestors from a number of sources.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for cemetery records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-missouri-cem.JPG"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://commons.wikimedia.org/wiki/File:Jewell_Cemetery.JPG\" target=\"_blank\"> <img src=\"img/x-missouri-cem.JPG\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 8px; margin-bottom: 16px; max-width:400px; border:1px solid #000; padding:0px;\"></a>  <li>Explore Missouri cemetery records in this article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Missouri_Cemeteries\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Missouri Cemetery Records</span></a> </li><br><li>Browse the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.interment.net/us/mo/index.htm\" target=\"_blank\"><img src=\"../img/d.png\" width=\"2\">Interment.net site</a> for Missouri cemetery records.</li><li>Search for <a class=\"lk\" href=\"http://www.idreamof.com/cemetery/mo.html\" target=\"_blank\">Missouri cemetery records</a> online.</li><li>Explore Missouri cemetery records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.accessgenealogy.com/cemetery/missouri-cemetery-records.htm#content\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">AccessGenealogy site.</a></li><li>Explore additional links for Missouri cemetery records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/MO/Cemetery-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://usgwtombstones.org/missouri/missouri.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Tombstone Transcription Project</a> on the U.S. GenWeb site.</li><li>Search the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.findagrave.com/cemetery-browse/USA/Missouri?id=state_26\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Find A Grave site</a> for cemetery records.</li><li>Search the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://billiongraves.com/site-map?country=United+States&amp;state=Missouri\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">BillionGraves site</a> for cemetery records.</li><li>See additional cemetery resources on the Missouri <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-mo-genealogy/cem\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium site</a>.</li><li>Explore <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://africanamericancemeteries.com/mo/\" target=\"_blank\"><img src=\"../img/d.png\" width=\"2\">African American cemetery records</a> in Missouri.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Emigration and Immigration",
+        "name": "Emigration and Immigration",
+        "section_name": "Learn about Missouri emigration and immigration.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Missouri emigration and immigration.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Learn about the history of, and locations for, Missouri immigration.</li><li>Find migration and travel routes for Missouri ancestors.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for emigrarion and immigration records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/4-missouri.png"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/4-missouri.png\" alt=\"\" width=\"100%\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; \"><li>Learn about Missouri emigration and immigration in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Missouri_Emigration_and_Immigration\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Missouri Emigration and Immigration</span></a></li><br><li>Learn about Missouri migration routes in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Missouri_Migration\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Missouri Migration</span></a></li><br><li>Explore additional links for Missouri immigration records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/MO/Immigration-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore naturalization resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.theancestorhunt.com/blog/free-missouri-online-naturalization-records\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Military Records",
+        "name": "Military Records",
+        "section_name": "Learn about Missouri military records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Missouri military records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find online resources for Missouri ancestors in the military.</li><li>Search for Missouri military records by war or conflict.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for military records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/y-us-flag.jpg"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/y-us-flag.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; border:1px solid #000; padding:0px;\"><li>Learn about Missouri military records in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Missouri_Military_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Missouri Military Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Missouri_Military_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: Missouri Military Records</span></a></li><br><li>Explore Missouri military records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.accessgenealogy.com/missouri-genealogy#content\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">AccessGenealogy site</a> (scroll down).</li><li>Explore Missouri military records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-mo-genealogy/mil/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium site</a>.</li><li>Explore additional links for Missouri military records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/MO/Military-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore Missouri military records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://genealogytrails.com/mo/military_main.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Genealogy Trails site</a>.</li><li>Explore <a class=\"lk\" href=\"http://www.cyndislist.com/us/mo/military/\" target=\"_blank\">Missouri military resources</a> on Cyndi's List.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Probate, Land and Court",
+        "name": "Probate, Land and Court",
+        "section_name": "Learn about Missouri probate, land, and court records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Missouri probate and land records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find probate records at the county level.</li><li>Learn about the history of land and property claims in Missouri.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles or videos in this Choice, write down key learnings for probate and court records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-missouri-land.jpg"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/x-missouri-land.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; border:1px solid #000;\"><li>Learn about Missouri probate records in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Missouri_Probate_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Missouri Probate Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php?title=Missouri_Probate_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: Missouri Probate Records</span></a></li><br><li>Explore additional links for Missouri probate records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/MO/Probate-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore probate records and wills on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.theancestorhunt.com/blog/free-missouri-probate-records-and-wills\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li><li>Learn about Missouri land and property records. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Missouri_Land_and_Property\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Missouri Land and property Records</span></a></li><br><li>Explore additional links for Missouri land records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/MO/Land-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for probate and court records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-missouri-court.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://pixabay.com/photos/building-famous-architecture-autumn-215071/\" target=\"_blank\"> <img src=\"img/x-missouri-court.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:400px; border:1px solid #000; padding:0px;\"></a><li>Learn about Missouri court records in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Missouri_Court_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Missouri Court Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Missouri_Court_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"><span class=\"re\">AC—Wiki: Missouri Court Records</span></a></li><li>Explore records for district and circuit courts on the <a class=\"lk\" href=\"https://www.archives.gov/kansas-city/\" target=\"_blank\">National Archives site</a>.</li><li>Explore school record resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.theancestorhunt.com/blog/free-missouri-online-school-records\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Maps and Gazetteers",
+        "name": "Maps and Gazetteers",
+        "section_name": "Learn about Missouri maps and gazetteers.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Missouri maps and gazetteers.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Learn about the history of Missouri maps.</li><li>Find out how Missouri gazetteers can help you in your research.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-missouri-map.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://commons.wikimedia.org/wiki/File:1855_Colton_Map_of_Missouri_-_Geographicus_-_Missouri-colton-1855.jpg\" target=\"_blank\"> <img src=\"img/x-missouri-map.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px;\"></a> <li>Learn about Missouri maps in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Missouri_Maps\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Missouri Maps</span></a><br><span class=\"star notranslate\">☆</span><a href=\"https://wiki.rootsweb.com/wiki/index.php/Missouri_Maps\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: Missouri Maps</span></a>  </li><br><li>Learn about Missouri gazetteers in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Missouri_Gazetteers\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Missouri Gazetteers</span></a></li><br><li>Access interactive maps and atlases of Missouri on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.mapofus.org/Missouri/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">MapsofUS site</a>.</li><li>Find Missouri towns and communities on the <a class=\"lk\" href=\"https://roadsidethoughts.com/mo/index-a.htm\" target=\"_blank\">RoadsideThoughts site</a>.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for maps and gazetteers. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.davidrumsey.com/luna/servlet/view/search?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&amp;q=missouri&amp;search=Go\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">David Rumsey collection</a> of Missouri maps.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.lib.utexas.edu/maps/missouri.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Perry-Castaneda site</a> for maps of Missouri.</li><li>Explore <a class=\"lk\" href=\"http://www.historicmapworks.com/Browse/United_States/Missouri/\" target=\"_blank\">historical Missouri maps</a> on the Historic Map Works site.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.oldmapsonline.org/en/Missouri\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Old Maps Online site</a> for Missouri maps.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://commons.wikimedia.org/wiki/Category:Old_maps_of_Missouri\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Old Maps of Missouri</a> on the Wikipedia site.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Newspapers",
+        "name": "Newspapers",
+        "section_name": "Learn about Missouri newspapers.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Missouri newspapers.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Discover the history of Missouri newspapers.</li><li>Learn more about how to use Missouri periodical and manuscripts.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        }
+                    ],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Learn about Missouri newspapers in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Missouri_Newspapers\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Missouri Newspapers</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Missouri_Periodicals,_Newspapers,_and_Manuscript_Collections\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: Missouri Periodicals, Newspapers, and Manuscripts</span></a></li><br><li>Learn about researching historical Missouri newspapers in this tutorial from The Ancestor Hunt. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/researching-free-missouri-historical-newspapers\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">Research Free Historical Missouri Newspapers—8:47</span></a></li><br></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find research clues in the Library of Congress historical newspaper collection.</li><li>Search Missouri online newspaper sites.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for newspaper records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/y-newspaper.png"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/y-newspaper.png\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; border:1px solid #000; padding:0px;\"><li>Search for <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://chroniclingamerica.loc.gov/search/titles/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Missouri  historical newspapers</a> in the Library of Congress collection.</li><li>Find links to <a class=\"lk\" href=\"https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives#Missouri\" target=\"_blank\"> Missouri newspapers</a> on the Wikipedia site.</li> <li>Search the <a class=\"lk\" href=\"https://sites.google.com/site/onlinenewspapersite/Home/usa/mo\" target=\"_blank\">Missouri Online Historical Newspapers</a> site.</li><li>Explore Missouri newspaper resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/missouri-online-historical-newspapers-summary\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li><li>See additional Missouri newspaper resources on the <a class=\"lk\" href=\"http://www.linkpendium.com/all-mo-genealogy/news/\" target=\"_blank\">Linkpendium</a> site.</li><li>Explore additional links for Missouri newspapers and obituaries records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/MO/Newspapers-and-Obituaries.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Websites",
+        "name": "Websites",
+        "section_name": "Explore additional websites for research.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "There are a number of websites with valuable resources for Missouri research.",
+                "content": {
+                    "hidden": [],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Explore links in <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.cyndislist.com/us/mo/general/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Cyndi's List</a>.</li><li>Explore links in <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.genealogylinks.net/usa/missouri/index.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Genealogylinks.net</a>.</li> <li>Explore links in <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/MO/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy.com</a>.</li> </ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Search Records",
+        "name": "Search Records",
+        "section_name": "Search records from Missouri.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Use the QUIKLinks (lightning bolts) or Missouri County links (bottom) to quickly search common record collections for Missouri.",
+                "content": {
+                    "hidden": [],
+                    "images": [],
+                    "text": [
+                        "<p><i>Note</i> : To search records on these sites, you must be registered on the site or be at a FamilySearch Center.</p>",
+                        "<ol><li>In the QUIKLinks, click the link for FamilySearch, Ancestry, Findmypast, or MyHeritage to view the corresponding record collection.</li><li>Scroll down near the bottom of this page to see available county records. Click the name of the county for FamilySearch, or A for Ancestry, or L for Linkpendium.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Explore additional record collections.",
+                "content": {
+                    "hidden": [],
+                    "images": [],
+                    "text": [
+                        "<ol><li>In FamilySearch, explore the <a class=\"lk\" href=\"https://familysearch.org/wiki/en/Missouri_Online_Genealogy_Records\">Missouri Online Genealogy Records page</a> for a variety of record collections.</li><li>In each program (FamilySearch, Ancestry, or Findmypast), explore additional record collections besides the ones listed in QUIKLinks.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Get Help",
+        "name": "Get Help",
+        "section_name": "Get help with your Missouri research.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Use Facebook pages to get answers to your questions.",
+                "content": {
+                    "hidden": [],
+                    "images": [
+                        "https://thefhguide.com/img/fh-help3.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"img/fh-help3.jpg\" target=\"_blank\"> <img src=\"img/fh-help3.jpg\" alt=\"\" width=\"350px\" style=\"float:right; margin-top: 16px; margin-left: 16px; border:1px solid #000; padding:0px;\"></a>  <li>Visit the <a class=\"lk\" href=\"https://www.facebook.com/groups/8210363481/\" target=\"_blank\">Missouri Genealogy Network page</a> on Facebook.</li><li>Visit the <a class=\"lk\" href=\"https://www.facebook.com/MissouriGenealogyRecords/\" target=\"_blank\">Missouri Genealogy page</a> on Facebook.</li><li>Explore the <a class=\"lk\" href=\"https://www.facebook.com/groups/MissouriGenealogyJustAsk\" target=\"_blank\">Missouri Genealogy - Just Ask! page</a> on Facebook.</li><li>Visit the <a class=\"lk\" href=\"https://www.facebook.com/groups/1473896099560205/\" target=\"_blank\">U.S. Midwest Genealogy Research page</a> on Facebook.</li><li>See the <a class=\"lk\" href=\"http://socialmediagenealogy.com/genealogy-on-facebook-list/\" target=\"_blank\">Genealogy on Facebook list</a> of Facebook groups dedicated to helping with research for Missouri.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Join the <a class=\"lk\" href=\"http://www.rootschat.com/forum/usa/\" target=\"_blank\">RootsChat forum</a> and post questions about Missouri research.</li><li>Explore the <a class=\"lk\" href=\"http://www.cyndislist.com/us/mo/social/\" target=\"_blank\"> Missouri research mailing lists</a> on Cyndi's List.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://community.familysearch.org/s/group/0F93A000000DHpfSAG/missouri\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">FamilySearch community</a> for help with Missouri research.</li><li>Use the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.ancestry.com/boards/localities.northam.usa.states.missouri/mb.ashx\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestry message boards</a> to read or post questions about Missouri research.</li><li>Explore Missouri research questions in the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://genealogy.stackexchange.com/questions/tagged/missouri\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Genealogy Stack Exchange</a>.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Learn about Missouri genealogy societies.",
+                "content": {
+                    "hidden": [
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Proficient: Make a list of Facebook groups, mailing lists, and genealogy societies of interest, and then join or subscribe to them. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Learn about genealogy societies in Missouri in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Missouri_Societies\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Missouri Societies</span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://www.mohistory.org/\" target=\"_blank\">Missouri Historical Society Library and Research Center</a> site.</li><li>Explore the <a class=\"lk\" href=\"http://www.mosga.org/\" target=\"_blank\">Missouri State Genealogical Association</a> site.</li><li>Explore <a class=\"lk\" href=\"http://www.cyndislist.com/us/mo/societies/\" target=\"_blank\">Missouri genealogy society sites</a> on Cyndi's List.</li><li>Get help at a <a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Category:Missouri_Family_History_Centers\" target=\"_blank\">family history center in Missouri</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\">Regional/Local Societies</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    }
+]

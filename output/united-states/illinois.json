@@ -1,0 +1,545 @@
+[
+    {
+        "nav_name": "Research",
+        "name": "Research and Records",
+        "section_name": "Learn about research in Illinois.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Get started with research for your Illinois ancestors.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Learn successful research strategies for Illinois ancestors.</li><li><span class=\"g\">Record Finder</span>: Use the Record Finder to determine priorities for Illinois research.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-illinois-over.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://pixabay.com/en/chicago-illinois-city-cityscape-890349/\" target=\"_blank\"> <img src=\"img/x-illinois-over.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; border:1px solid #000; padding:0px;\"></a>    <li><span class=\"g\">Introduction</span>: Learn about basic Illinois research strategies. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Illinois_Research_Tips_and_Strategies\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Basic Illinois Research Tips and Strategies</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.archives.com/experts/holik-urban-jennifer/illinois-ancestors.html\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AR—Places to Discover Your Illinois Ancestors</span></a></li><br><li>Follow this research study for Illinois ancestors, from 1880 to the present. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Step-by-Step_Illinois_Research,_1880-Present\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Step-by-Step Illinois Research, 1880-Present</span></a></li><br><li>Get an overview of Illinois research in these videos. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/help/helpcenter/lessons/united-states-research-midwest-region-illinois-overview\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">FS—Illinois Overview—3:10</span></a><br><img src=\"img/vid.png\" width=\"20\"> <a href=\"https://www.ancestryacademy.com/illinois-researching-in-the-prairie-state\" target=\"_blank\"> <span class=\"re\">AAC—Researching in the Prairie State—Video series (account required)</span></a></li><br><li><span class=\"g\">Ancestry</span>: Explore resources for Illinois research on Ancestry. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://search.ancestry.com/Places/US/Illinois/Default.aspx\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Illinois Resources</span></a><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestrycdn.com/support/us/2016/11/illinois.pdf\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Illinois State Research Guide, 5 pgs.</span></a></li><br><li><span class=\"g\">Record Finder</span>: Use the Illinois Record Finder to decide on records to search. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Illinois_Research_Tips_and_Strategies#Illinois_Record_Selection_Table\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Illinois Record Selection Table</span></a></li><br><h5>Additional Records</h5><ol><li>Explore a variety of records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://ldsgenealogy.com/IL/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy</a> site. </li><li>Explore historical photo sites on <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/alabama-illinois-historical-photos-research\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a>. </li><li>Explore resources for school yearbooks on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://theancestorhunt.com/blog/free-illinois-high-school-and-college-yearbooks-online/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site. </li></ol><br></ol>",
+                        "<h5>Additional Records</h5>",
+                        "<ol><li>Explore a variety of records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://ldsgenealogy.com/IL/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy</a> site. </li><li>Explore historical photo sites on <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/alabama-illinois-historical-photos-research\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a>. </li><li>Explore resources for school yearbooks on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://theancestorhunt.com/blog/free-illinois-high-school-and-college-yearbooks-online/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site. </li></ol>",
+                        "<h5>Ethnic</h5>",
+                        "<ol><li><span class=\"g\">African American</span>: Learn about African Americans in Illinois in these FamilySearch Wiki articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/African_American_Resources_for_Illinois\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: African American Resources for Illinois</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Illinois_Minorities\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Illinois Minorities</span></a></li><br><li>Learn about African American records in this article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://accessgenealogy.com/black-genealogy/illinois-african-american-records.htm#content\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AG—Illinois African American Records</span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://genealogycenter.info/africanamerican/results_afram.php?subject=IL\" target=\"_blank\">African American Gateway</a> for Illinois. </li><li><span class=\"g\">Native American</span>: Learn about American Indians in Illinois in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Indians_of_Illinois\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Indians of Illinois</span></a></li><br></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Learn about Illinois state history.",
+                "content": {
+                    "hidden": [],
+                    "images": [
+                        "https://thefhguide.com/img/x-illinois-his.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://en.wikipedia.org/wiki/File:Illinois_1718.jpg\" target=\"_blank\"> <img src=\"img/x-illinois-his.jpg\" alt=\"\" width=\"350px\" style=\"float:right; margin-top: 16px; margin-left: 16px; border:1px solid #000; padding:0px;\"></a>    <li>Explore Illinois historical resources on FamilySearch. <br><br> <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Illinois_History\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Illinois History</span></a></li><br><li>Explore Illinois history on Wikipedia. <br><br> <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://en.wikipedia.org/wiki/Illinois#History\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">History</span></a><br> <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://en.wikipedia.org/wiki/Category:History_of_Illinois\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">History of Illinois</span></a> </li><br><li>Learn about Illinois history on InfoPlease.com.<br><br> <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.infoplease.com/encyclopedia/places/north-america/us/illinois-state-united-states/history\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">Illinois History</span></a></li><br></ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Archives and Libraries",
+        "name": "Archives and Libraries",
+        "section_name": "Learn about Illinois archives and libraries.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Illinois archives and libraries.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Explore statewide and regional collections.</li><li>Explore books and photos that can be helpful in your research.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for archives and libraries. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-illinois-lib.png"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://commons.wikimedia.org/wiki/File:Danville_Public_Library_(Illinois).png\" target=\"_blank\"> <img src=\"img/x-illinois-lib.png\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 8px; margin-bottom: 16px; max-width:400px; border:1px solid #000; padding:0px;\"></a><li>Learn about Illinois archives and libraries in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Illinois_Archives_and_Libraries\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Illinois Archives and Libraries</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://genealogysstar.blogspot.com/2018/12/Illinois-state-archives-wonderful-local_13.html\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">Illinois State Archives: Wonderful Local Sources for Genealogical Research</span></a> </li><li>Learn about using Illinois repositories for research.<br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestryacademy.com/illinois-researching-in-the-prairie-state/videos/illinois-repositories\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AAC—Illinois Repositories—6:58  </span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://www.statearchives.us/illinois.htm\" target=\"_blank\">State Archives and Libraries site</a> for Illinois.</li><li>Explore the <a class=\"lk\" href=\"https://www.cyberdriveillinois.com/departments/archives/services.html\" target=\"_blank\">Illinois State Archives</a> collection, including the <a class=\"lk\" href=\"https://www.cyberdriveillinois.com/departments/archives/databases/physearch.html\" target=\"_blank\">Physicians database</a>.</li><li>Explore the <a class=\"lk\" href=\"http://www.statearchives.us/illinois.htm\" target=\"_blank\">State Archives and Libraries site</a> for Illinois.</li><li>Explore the <a class=\"lk\" href=\"http://www.idaillinois.org/\" target=\"_blank\">State Illinois Digital Archives site</a> for historical documents and images.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.rootsweb.ancestry.com/~bwo/illinois.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Books We Own site</a> for Illinois genealogy publications. Volunteers may be available for lookup services.</li><li>Search for <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://books.familysearch.org/primo_library/libweb/action/search.do?fn=search&amp;ct=search&amp;mode=Basic&amp;tab=default_tab&amp;indx=1&amp;dum=true&amp;srt=rank&amp;vid=FHD_PUBLIC&amp;frbg=&amp;vl%28freeText0%29=illinois\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">free online books on Illinois research</a> on the FamilySearch site.</li><li><span class=\"g\">Photos</span>: Explore historical photo resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/illinois-online-historical-photos-research\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Explore city and county directories to find Illinois ancestors.</li><li>Discover the different types of information in directories, such as streets, churches, historical info, etc.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for city directories. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-illinois-city.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://pixabay.com/photos/route-66-illinois-petrol-stations-1573585/\" target=\"_blank\"> <img src=\"img/x-illinois-city.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:400px; border:1px solid #000; padding:0px;\"></a><li>Learn about Illinois city directories in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Illinois_Directories\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Illinois Directories</span></a></li><br><li><span class=\"g\">Sites</span>: Explore <a class=\"lk\" href=\"https://theancestorhunt.com/blog/free-online-illinois-city-directories/\" target=\"_blank\">Illinois city directories</a> on the Ancestor Hunt site.</li><li>Find out more about city directories in this research guide from Ancestry.<br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestrycdn.com/legacy/offer/learning-center/2012/city_directories_short.pdf\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Six Things to Find—3 pgs.</span></a></li><br><li>Explore Illinois city directories on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://search.ancestry.com/search/db.aspx?dbid=2469\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestry site</a>.</li><li>Explore Illinois <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://sites.google.com/site/onlinedirectorysite/Home/usa/il\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">historical directories</a> by county.</li><li>Explore additional links for Illinois city directories on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/IL/City-Directories.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Vital and Census Records",
+        "name": "Vital and Census Records",
+        "section_name": "Learn about Illinois vital and census records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Illinois vital records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find online resources for vital records.</li><li>Learn the history of vital records in the state of Illinois.</li><li>Learn about alternates for vital records in Illinois.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for vital records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-illinois-vit.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://commons.wikimedia.org/wiki/File:Tazewell_County,_Illinois_courthouse_from_SW_2.jpg\" target=\"_blank\"> <img src=\"img/x-illinois-vit.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px;\"></a><li>Learn about Illinois vital records in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Illinois_Birth,_Marriage,_and_Death_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Illinois Vital Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Illinois_Vital_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: Illinois Vital Records</span></a> </li><li>Explore links for vital records on the <a class=\"lk\" href=\"http://www.dph.illinois.gov/topics-services/birth-death-other-records\" target=\"_blank\">Illinois Public Health site</a>.</li><li>Search for online Illinois <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.vitalrecordsus.com/illinois-vital-records.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">vital records</a> and find addresses for state offices to write to for records.</li><li>Explore Illinois birth, marriage, and death records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.accessgenealogy.com/illinois/illinois-vital-records.htm#content\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">AccessGenealogy site.</a></li><li>Explore additional links for Illinois vital records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-il-genealogy/vr/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium site</a>.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find birth records for Illinois ancestors.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for birth and adoption records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for marriage and divorce records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-illinois-birth.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://www.familysearch.org/wiki/en/File:Illinois_record_13.jpg\" target=\"_blank\"> <img src=\"img/x-illinois-birth.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000; padding:0px;\"></a><li>Learn how to find Illinois birth records in this article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/How_to_Find_Illinois_Birth_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: How to Find Illinois Birth Records</span></a></li><br><li>Get started with Illinois birth records in this video.<br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestryacademy.com/illinois-researching-in-the-prairie-state/videos/vital-records-birth-records\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AAC—Vital Records: Birth Records—2:08  </span></a></li><br><li>Explore additional links for Illinois birth records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/IL/Birth-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Explore Illinois marriage records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find marriage and divorce records for Illinois ancestors.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-illinois-marr.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://www.familysearch.org/wiki/en/File:Illinois_record_12.jpg\" target=\"_blank\"> <img src=\"img/x-illinois-marr.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000; padding:0px;\"></a><li>Learn how to find <a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/How_to_Find_Illinois_Marriage_Records\" target=\"_blank\">Illinois marriage records</a> with FamilySearch.</li><li>Get started with Illinois marriage records in this video.<br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestryacademy.com/illinois-researching-in-the-prairie-state/videos/marriage-records-1\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AAC—Vital Records: Marriage Records—2:55  </span></a></li><br><li>Explore links for <a class=\"lk\" href=\"http://www.idreamof.com/marriage/il.html\" target=\"_blank\">Illinois marriage records</a>.</li><li>Explore the Illinois Statewide Marriage Index for <a class=\"lk\" href=\"https://www.cyberdriveillinois.com/departments/archives/databases/marriage.html\" target=\"_blank\">1763-1900</a>.</li><li>Explore additional links for Illinois marriage records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/IL/Marriage-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Learn about Illinois divorce records in this article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Illinois_Divorce_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Illinois Divorce Records</span></a></li><br></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Explore Illinois obituaries and death records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find obituaries for Illinois ancestors.</li><li>Find death records and death indexes for Illinois ancestors.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for obituary and death records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-illinois-obit.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"img/x-illinois-obit.jpg\" target=\"_blank\"> <img src=\"img/x-illinois-obit.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000;\"></a><li>Learn about Illinois obituaries in this article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Illinois_Obituaries\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Illinois Obituaries</span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://obituarieshelp.org/illinois_newspaper_obituaries.html\" target=\"_blank\">ObituariesHelp site</a> for Illinois obituaries.</li><li>Explore <a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/free-illinois-obituaries-and-obituary-index-links\" target=\"_blank\">The Ancestor Hunt </a> for obituaries.</li><li>Search for obituaries by county on the <a class=\"lk\" href=\"https://www.newspaperobituaries.net/illinois/index.html\" target=\"_blank\">Newspaperobituaries.net site</a>.</li><li>Find additional resources for Illinois obituaries on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-il-genealogy/obits/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium site</a>.</li></ol>",
+                        "<h5>Illinois Death Records</h5>",
+                        "<ol><li>Learn how to find Illinois death records in this article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/How_to_Find_Illinois_Death_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: How to Find Illinois Death Records</span></a></li><br><li>Get started with Illinois death records in this video.<br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestryacademy.com/illinois-researching-in-the-prairie-state/videos/death-records\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AAC—Vital Records: Death Records—4:30  </span></a></li><br><li>Explore the Illinois Statewide Death Index for <a class=\"lk\" href=\"https://www.cyberdriveillinois.com/departments/archives/databases/idphdeathindex.html\" target=\"_blank\">1916-1950</a> or <a class=\"lk\" href=\"https://www.cyberdriveillinois.com/departments/archives/databases/death.html\" target=\"_blank\">pre-1916</a>.</li><li>Explore the <a class=\"lk\" href=\"http://ancestorsatrest.com/illinois.shtml\" target=\"_blank\">Ancestors at Rest site</a> for Illinois death records.</li><li>Explore Illinois <a class=\"lk\" href=\"http://www.deathindexes.com/illinois/index.html\" target=\"_blank\">death records, indexes, and obituaries</a>.</li><li>Explore additional links for Illinois death records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/IL/Death-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Explore Illinois census and voter records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Explore state and county census records for Illinois ancestors.</li><li>Find voter registration records in Illinois.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for census and voter records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/4-illinois.png"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/4-illinois.png\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000; padding:0px;\"><li>Get an overview of Illinois censuses in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Illinois_Census\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Illinois Census</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Census_Records_for_Illinois\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Illinois Census Records</span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://www.myfreecensus.com/illinois-census-records.htm\" target=\"_blank\">MyFreeCensus site</a> for Illinois state and county census records.</li><li>Explore additional links for Illinois census records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/IL/Census-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore Illinois census records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.accessgenealogy.com/illinois/illinois-census-records.htm#content\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">AccessGenealogy site.</a></li><li>Learn about Illinois voting registers in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Illinois_Voting_Registers\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Illinois Voting Registers</span></a></li><br></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Church and Cemetery Records",
+        "name": "Church and Census Records",
+        "section_name": "Learn about Illinois church and cemetery records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Illinois church records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find Illinois church information by denomination.</li><li>Search Illinois church records at the county level.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for church records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-illinois-church.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"http://www.blackpast.org/aah/salem-baptist-church-alton-illinois-1819\" target=\"_blank\"> <img src=\"img/x-illinois-church.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:350px; border:1px solid #000;\"></a> <li>Get an overview of Illinois church records in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Illinois_Church_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Illinois Church Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Illinois_Church_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Illinois Church Records</span></a></li><br><li>Explore additional links for Illinois church records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/IL/Church-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore church record resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.theancestorhunt.com/blog/free-illinois-online-church-records\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find cemetery records for Illinois ancestors from a number of sources.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for cemetery records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-illinois-cem.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://commons.wikimedia.org/wiki/File:Woodlawn_Cemetery_in_Carbondale.jpg\" target=\"_blank\"> <img src=\"img/x-illinois-cem.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 8px; margin-bottom: 16px; max-width:400px; border:1px solid #000; padding:0px;\"></a>  <li>Explore Illinois cemetery records in this article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Illinois_Cemeteries\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Illinois Cemetery Records</span></a> </li><li>Browse the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.interment.net/us/il/index.htm\" target=\"_blank\"><img src=\"../img/d.png\" width=\"2\">Interment.net site</a> for Illinois cemetery records.</li><li>Search for <a class=\"lk\" href=\"http://www.idreamof.com/cemetery/il.html\" target=\"_blank\">Illinois cemetery records</a> online.</li><li>Explore additional links for Illinois cemetery records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/IL/Cemetery-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://usgwtombstones.org/illinois/illinois.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Tombstone Transcription Project</a> on the U.S. GenWeb site.</li><li>Search the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.findagrave.com/cemetery-browse/USA/Illinois?id=state_16\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Find A Grave site</a> for cemetery records.</li><li>Search the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://billiongraves.com/site-map?country=United+States&amp;state=Illinois\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">BillionGraves site</a> for cemetery records.</li><li>See additional cemetery resources on the Illinois <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-il-genealogy/cem\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium site</a>.</li><li>Explore <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://africanamericancemeteries.com/il/\" target=\"_blank\"><img src=\"../img/d.png\" width=\"2\">African American cemetery records</a> in Illinois.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Emigration and Immigration",
+        "name": "Emigration and Immigration",
+        "section_name": "Learn about Illinois emigration and immigration.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Illinois emigration and immigration.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Learn about the history of, and locations for, Illinois immigration.</li><li>Find migration and travel routes for Illinois ancestors.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for emigrarion and immigration records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/4-illinois.png"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/4-illinois.png\" alt=\"\" width=\"100%\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; \"><li>Learn about Illinois emigration and immigration in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Illinois_Emigration_and_Immigration\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Illinois Emigration and Immigration</span></a></li><br><li>Learn about Illinois migration routes in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Illinois_Migration\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Illinois Migration</span></a></li><br><li>Watch these videos to learn about settlement patterns in Illinois.<br><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestryacademy.com/illinois-researching-in-the-prairie-state/videos/pre-european-settlement-in-illinois\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AAC—Pre-European Settlement in Illinois—5:29 </span></a><br><span class=\"star notranslate\">☆</span><a href=\"https://www.ancestryacademy.com/illinois-researching-in-the-prairie-state/videos/settlement-patterns\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AAC—Settlement Patterns—4:26 </span></a></li><br><li>Explore additional links for Illinois immigration records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/IL/Immigration-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore naturalization resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.theancestorhunt.com/blog/free-illionis-online-naturalization-records\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Military Records",
+        "name": "Military Records",
+        "section_name": "Learn about Illinois military records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Illinois military records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find online resources for Illinois ancestors in the military.</li><li>Search for Illinois military records by war or conflict.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for military records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/y-us-flag.jpg"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/y-us-flag.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; border:1px solid #000; padding:0px;\"><li>Learn about Illinois military records in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Illinois_Military_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Illinois Military Records</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Illinois_Military_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: Illinois Military Records</span></a></li><br><li>Explore Illinois military records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.accessgenealogy.com/illinois-genealogy#content\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">AccessGenealogy site</a> (scroll down).</li><li>Explore Illinois military records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-il-genealogy/mil/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium site</a>.</li><li>Explore <a class=\"lk\" href=\"http://www.cyndislist.com/us/il/military/\" target=\"_blank\">Illinois military resources</a> on Cyndi's List.</li><li>Explore additional links for Illinois military records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/IL/Military-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore Illinois military records on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://genealogytrails.com/ill/militaryindex.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Genealogy Trails site</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Probate, Land and Court",
+        "name": "Probate, Land and Court",
+        "section_name": "Learn about Illinois probate, land, and court records.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Illinois probate and land records.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find probate records at the county level.</li><li>Learn about the history of land and property claims in Illinois.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles or videos in this Choice, write down key learnings for probate and court records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-illinois-land.jpg"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/x-illinois-land.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; border:1px solid #000;\"><li>Learn about Illinois probate records in these articles. <br><br><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Illinois_Probate_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Illinois Probate Records</span></a><br><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php?title=Illinois_Probate_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: Illinois Probate Records</span></a> </li><li>Learn about researching with probate records in this video.<br><br><a href=\"https://www.ancestryacademy.com/illinois-researching-in-the-prairie-state/videos/probate-records-1\" target=\"_blank\"> <img src=\"img/vid.png\" width=\"20\"> <span class=\"re\">AAC—Probate Records—4:08  </span></a></li><br><li>Explore additional links for Illinois probate records on the <a class=\"lk\" href=\"http://ldsgenealogy.com/IL/Probate-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Explore probate records and wills on the <a class=\"lk\" href=\"https://www.theancestorhunt.com/blog/free-illinois-probate-records-and-wills\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li><li>Learn about Illinois land and property records. <br><br><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Illinois_Land_and_Property\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Illinois Land and Property Records</span></a><br><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Illinois_Land_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Illinois Land Records</span></a></li><br><li>Explore additional links for Illinois land records on the <a class=\"lk\" href=\"http://ldsgenealogy.com/IL/Land-Records.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li><li>Search for <a class=\"lk\" href=\"https://www.cyberdriveillinois.com/departments/archives/databases/data_lan.html\" target=\"_blank\">Illinois public domain land tract sales</a>.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Learn about the history of court records in Illinois and where to find them.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for probate and court records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-illinois-court.jpg"
+                    ],
+                    "text": [
+                        "<ol><a class=\"lk\" href=\"https://en.wikipedia.org/wiki/Pike_County_Courthouse_(Illinois)#/media/File:Courthouse,_Pike_County,_Illinois.jpg\" target=\"_blank\"> <img src=\"img/x-illinois-court.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-bottom: 16px; max-width:400px; border:1px solid #000; padding:0px;\"></a><li>Learn about Illinois court records in these articles. <br><br><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Illinois_Court_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Illinois Court Records</span></a><br><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Illinois_Court_Records\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"><span class=\"re\">AC—Wiki: Illinois Court Records</span></a></li><br><li>Explore records for district and circuit courts on the <a class=\"lk\" href=\"https://www.archives.gov/chicago/\" target=\"_blank\">National Archives site</a>.</li><li>Explore school record resources on the <a class=\"lk\" href=\"https://www.theancestorhunt.com/blog/free-illinois-online-school-records\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li><li>Explore resources for orphans on the <a class=\"lk\" href=\"https://orphanfinder.com/state-search/illinois/\" target=\"_blank\">OrphanFinder</a> site.</li></ol>",
+                        "<p style=\"margin-left:44px\"><img src=\"img/bolt1.png\" width=\"20px\"> QUIKLinks</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Maps and Gazetteers",
+        "name": "Maps and Gazetteers",
+        "section_name": "Learn about Illinois maps and gazetteers.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Illinois maps and gazetteers.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Learn about the history of Illinois maps.</li><li>Find out how Illinois gazetteers can help you in your research.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/x-illinois-map.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"https://commons.wikimedia.org/wiki/File:1861_Mitchell%27s_Map_of_Illinois_w-_Chicago_Inset_-_Geographicus_-_IL-m-60.jpg\" target=\"_blank\"> <img src=\"img/x-illinois-map.jpg\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px;\"></a> <li>Learn about Illinois maps in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Illinois_Maps\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Illinois Maps</span></a><br><span class=\"star notranslate\">☆</span><a href=\"https://wiki.rootsweb.com/wiki/index.php/Illinois_Maps\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: Illinois Maps</span></a>  </li><br><li>Learn about Illinois gazetteers in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Illinois_Gazetteers\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Illinois Gazetteers</span></a></li><br><li>Access interactive maps and atlases of Illinois on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.mapofus.org/illinois/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">MapsofUS site</a>.</li><li>Find Illinois towns and communities on the <a class=\"lk\" href=\"https://roadsidethoughts.com/il/index-a.htm\" target=\"_blank\">RoadsideThoughts site</a>.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for maps and gazetteers. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.davidrumsey.com/luna/servlet/view/search?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&amp;q=illinois&amp;search=Go\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">David Rumsey collection</a> of Illinois maps.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.lib.utexas.edu/maps/illinois.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Perry-Castaneda site</a> for maps of Illinois.</li><li>Explore <a class=\"lk\" href=\"http://www.historicmapworks.com/Browse/United_States/Illinois/\" target=\"_blank\">historical Illinois maps</a> on the Historic Map Works site.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.oldmapsonline.org/en/Illinois\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Old Maps Online site</a> for Illinois maps.</li><li>Explore the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://commons.wikimedia.org/wiki/Category:Old_maps_of_Illinois\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Old Maps of Illinois</a> on the Wikipedia site.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Newspapers",
+        "name": "Newspapers",
+        "section_name": "Learn about Illinois newspapers.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Learn about Illinois newspapers.",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Discover the history of Illinois newspapers.</li><li>Learn more about how to use Illinois periodical and manuscripts.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        }
+                    ],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Learn about Illinois newspapers in these articles. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Illinois_Newspapers\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Illinois Newspapers</span></a><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://wiki.rootsweb.com/wiki/index.php/Illinois_Periodicals,_Newspapers,_and_Manuscript_Collections\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">AC—Wiki: Illinois Periodicals, Newspapers, and Manuscripts</span></a></li><br></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [
+                        {
+                            "summary": "<ul><li>Find research clues in the Library of Congress historical newspaper collection.</li><li>Search Illinois online newspaper sites.</li><hr style=\"margin-left: -20px;\"></ul>"
+                        },
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Good: Using the articles and videos in this Choice, write down key learnings for newspaper records. Then use the learnings for searches for a U.S. ancestor.</li><li>* Proficient: Same as above, for two or more ancestors. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [
+                        "https://thefhguide.com/img/y-newspaper.png"
+                    ],
+                    "text": [
+                        "<ol><img src=\"img/y-newspaper.png\" alt=\"\" width=\"100%\" ;=\"\" style=\"float:right; margin-left: 16px; margin-top: 8px; margin-bottom: 16px; max-width: 400px; border:1px solid #000; padding:0px;\"><li>Find links to <a class=\"lk\" href=\"https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives#Illinois\" target=\"_blank\"> Illinois newspapers</a> on the Wikipedia site.</li> <li>Search for <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://chroniclingamerica.loc.gov/search/titles/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Illinois  historical newspapers</a> in the Library of Congress collection.</li><li>Search the <a class=\"lk\" href=\"https://sites.google.com/site/onlinenewspapersite/Home/usa/il\" target=\"_blank\">Illinois Online Historical Newspapers</a> site.</li><li>Explore Illinois newspaper resources on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.theancestorhunt.com/blog/illinois-online-historical-newspapers-summary\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestor Hunt</a> site.</li><li>See additional Illinois newspaper resources on the <a class=\"lk\" href=\"http://www.linkpendium.com/all-il-genealogy/news/\" target=\"_blank\">Linkpendium</a> site.</li><li>Explore additional links for Illinois newspapers and obituaries on the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/IL/Newspapers-and-Obituaries.htm\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy site</a>.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Websites",
+        "name": "Websites",
+        "section_name": "Explore additional websites for research.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "There are a number of websites with valuable resources for Illinois research.",
+                "content": {
+                    "hidden": [],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Explore links in <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.cyndislist.com/us/il/general/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Cyndi's List</a>.</li><li>Explore links in <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.linkpendium.com/all-il-genealogy/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Linkpendium</a>.</li><li>Explore links in <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://www.genealogylinks.net/usa/illinois/index.html\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Genealogylinks.net</a>.</li> <li>Explore links in <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"http://ldsgenealogy.com/IL/\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">LDSGenealogy.com</a>.</li> </ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Search Records",
+        "name": "Search Records",
+        "section_name": "Search records from Illinois.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Use the QUIKLinks (lightning bolts) or Illinois County links (bottom) to quickly search common record collections for Illinois.",
+                "content": {
+                    "hidden": [],
+                    "images": [],
+                    "text": [
+                        "<p><i>Note</i> : To search records on these sites, you must be registered on the site or be at a FamilySearch Center.</p>",
+                        "<ol><li>In the QUIKLinks, click the link for FamilySearch, Ancestry, Findmypast, or MyHeritage to view the corresponding record collection.</li><li>Scroll down near the bottom of this page to see available county records. Click the name of the county for FamilySearch, or A for Ancestry, or L for Linkpendium.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Explore additional record collections.",
+                "content": {
+                    "hidden": [],
+                    "images": [],
+                    "text": [
+                        "<ol><li>In FamilySearch, explore the <a class=\"lk\" href=\"https://familysearch.org/wiki/en/Illinois_Online_Genealogy_Records\">Illinois Online Genealogy Records page</a> for a variety of record collections.</li><li>In each program (FamilySearch, Ancestry, or Findmypast), explore additional record collections besides the ones listed in QUIKLinks.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    },
+    {
+        "nav_name": "Get Help",
+        "name": "Get Help",
+        "section_name": "Get help with your Illinois research.",
+        "summary": "",
+        "choices": [
+            {
+                "name": "Use Facebook pages to get answers to your questions.",
+                "content": {
+                    "hidden": [],
+                    "images": [
+                        "https://thefhguide.com/img/fh-help3.jpg"
+                    ],
+                    "text": [
+                        "<ol><a href=\"img/fh-help3.jpg\" target=\"_blank\"> <img src=\"img/fh-help3.jpg\" alt=\"\" width=\"350px\" style=\"float:right; margin-top: 16px; margin-left: 16px; border:1px solid #000; padding:0px;\"></a>  <li>Visit the <a class=\"lk\" href=\"https://www.facebook.com/groups/196017143782491/\" target=\"_blank\">Illinois Genealogy Network page</a> on Facebook.</li><li>Visit the <a class=\"lk\" href=\"https://www.facebook.com/IllinoisGenealogyRecords/\" target=\"_blank\">Illinois Genealogy page</a> on Facebook.</li><li>Visit the <a class=\"lk\" href=\"https://www.facebook.com/groups/1473896099560205/\" target=\"_blank\">U.S. Midwest Genealogy Research page</a> on Facebook.</li><li>See the <a class=\"lk\" href=\"http://socialmediagenealogy.com/genealogy-on-facebook-list/\" target=\"_blank\">Genealogy on Facebook list</a> of Facebook groups dedicated to helping with research for Illinois.</li><li>Explore Illinois research questions in the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://genealogy.stackexchange.com/questions/tagged/illinois\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Genealogy Stack Exchange</a>.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "",
+                "content": {
+                    "hidden": [],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Join the <a class=\"lk\" href=\"http://www.rootschat.com/forum/usa/\" target=\"_blank\">RootsChat forum</a> and post questions about Illinois research.</li><li>Explore the <a class=\"lk\" href=\"http://www.cyndislist.com/us/il/social/\" target=\"_blank\"> Illinois research mailing lists</a> on Cyndi's List.</li><li>Use the <span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://www.ancestry.com/boards/localities.northam.usa.states.illinois/mb.ashx\" target=\"_blank\"><img src=\"img/d.png\" width=\"2\">Ancestry message boards</a> to read or post questions about Illinois research.</li></ol>"
+                    ],
+                    "resources": []
+                }
+            },
+            {
+                "name": "Learn about Illinois genealogy societies.",
+                "content": {
+                    "hidden": [
+                        {
+                            "exercises": "<ul style=\"list-style: none; margin-left: -20px;\"><li>* Proficient: Make a list of Facebook groups, mailing lists, and genealogy societies of interest, and then join or subscribe to them. </li></ul><hr style=\"margin-left: 20px;\">"
+                        }
+                    ],
+                    "images": [],
+                    "text": [
+                        "<ol><li>Learn about genealogy societies in Illinois in this FamilySearch Wiki article. <br><br><span class=\"star notranslate\">☆</span><a class=\"lk\" href=\"https://familysearch.org/wiki/en/Illinois_Societies\" target=\"_blank\"> <img src=\"img/doc.png\" width=\"20\"> <span class=\"re\">FS—Wiki: Illinois Societies</span></a></li><br><li>Explore the <a class=\"lk\" href=\"http://www.rootsweb.com/~ilsgs\" target=\"_blank\">Illinois State Genealogical Society</a> site.</li><li>Explore the <a class=\"lk\" href=\"http://www.rootsweb.com/~ilsgs\" target=\"_blank\">Chicago Genealogical Society</a> site.</li><li>Explore <a class=\"lk\" href=\"http://www.cyndislist.com/us/il/societies/\" target=\"_blank\">Illinois genealogy society sites</a> on Cyndi's List.</li><li>Get help at a <a class=\"lk\" href=\"https://www.familysearch.org/wiki/en/Category:Illinois_Family_History_Centers\" target=\"_blank\">family history center in Illinois</a>.</li></ol>",
+                        "<p style=\"margin-left:44px\">Regional/Local Societies</p>"
+                    ],
+                    "resources": []
+                }
+            }
+        ]
+    }
+]
