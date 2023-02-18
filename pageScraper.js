@@ -1,5 +1,5 @@
 const scraperObject = {
-    url: 'https://thefhguide.com/project-3-descendants.html',
+    url: 'https://thefhguide.com/project-9-us-arizona.html',
     fs: require('fs'),
     async scraper(browser) {
         let page = await browser.newPage();
@@ -26,7 +26,7 @@ const scraperObject = {
                     waitUntil: 'networkidle2',
                     timeout: 0
                 });
-                console.log(`Navigating to ${link}....`);
+                console.log(`Reading page at ${link}....`);
                 let boldAnchors = await newPage.$$eval('a > b', anchors => anchors.map(anchor => anchor.textContent.split(': ')[1]));
                 dataObj['nav_name'] = boldAnchors[1];
                 let headers = await newPage.$$eval('h3', names => names.map(name => name.textContent.split(': ')[1]));
@@ -47,7 +47,13 @@ const scraperObject = {
                                     };
                                 }
                             }).filter(element => element),
-                            'images': Array.from(choice.querySelectorAll('img')).map(image => image.src).filter(source => source.toLowerCase().indexOf("img/doc.png") === -1 && source.toLowerCase().indexOf("img/vid.png") === -1 && source.toLowerCase().indexOf("img/inf.png") === -1),
+                            'images': Array.from(choice.querySelectorAll('img')).map(image => image.src).filter(
+                                source => source.toLowerCase().indexOf("img/doc.png") === -1 &&
+                                source.toLowerCase().indexOf("img/vid.png") === -1 &&
+                                source.toLowerCase().indexOf("img/inf.png") === -1 &&
+                                source.toLowerCase().indexOf("img/d.png") === -1 &&
+                                source.toLowerCase().indexOf("img/bolt1.png") === -1 &&
+                                source.toLowerCase().indexOf("img/check.png") === -1),
                             'text': Array.from(choice.querySelectorAll('p, ol, h5')).map(element => {
                                 if (
                                     (
@@ -94,12 +100,12 @@ const scraperObject = {
         }
 
         let data = await scrapeCurrentPage();
-        this.fs.writeFile('./output/familysearch/project3.json', JSON.stringify(data, null, 4), err => {
+        this.fs.writeFile('./output/united-states/arizona.json', JSON.stringify(data, null, 4), err => {
             if (err) {
                 console.log(err);
             }
 
-            console.log('file written successfully!');
+            console.log('🎉 file written successfully! 🎉');
         });
         browser.close();
         return data;
