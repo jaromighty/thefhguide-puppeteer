@@ -112,7 +112,7 @@
     },
     {
         "nav_name": "Stories",
-        "name": "Stories\n                        ",
+        "name": "Stories",
         "section_name": "Create stories and add them to Memories.",
         "summary": "",
         "choices": [
@@ -268,6 +268,7 @@
         ]
     },
     {
+        "nav_name": "Documents",
         "name": "Documents",
         "section_name": "View, add, and manage documents in Memories.",
         "summary": "<p>This Goal helps you get documents added for ancestors in Family Tree.</p>",
