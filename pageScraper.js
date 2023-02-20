@@ -33,7 +33,7 @@ const scraperObject = {
                 dataObj['name'] = headers[0];
                 dataObj['section_name'] = headers[1];
                 let summary = await newPage.$$eval('h3 ~ :not(span, a, div, br, h3)', elements => elements.map(el => el.outerHTML));
-                dataObj['summary'] = summary.toString();
+                dataObj['summary'] = summary.join('');
                 dataObj['choices'] = await newPage.$$eval('.choice', choices => (
                     choices.map(choice => ({
                         'name': choice.previousElementSibling.innerText.split(/(\n)/gm)[2],
