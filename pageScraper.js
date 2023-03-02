@@ -1,5 +1,5 @@
 const scraperObject = {
-    url: 'https://thefhguide.com/project-9-us-arizona.html',
+    url: 'https://www.thefhguide.com/9-aus/project-9-aus-wa.html',
     fs: require('fs'),
     async scraper(browser) {
         let page = await browser.newPage();
@@ -40,10 +40,11 @@ const scraperObject = {
                         'content': {
                             'hidden': Array.from(choice.querySelectorAll('.lk')).map(element => {
                                 if (element.nextElementSibling?.tagName === 'DIV') {
-                                    let key = element.textContent.toLowerCase();
+                                    let contentType = element.textContent.toLowerCase();
                                     let value = element.nextElementSibling.innerHTML.replace(/(\r\n\t|\n|\r|\t)/gm, "");
                                     return {
-                                        [key]: value
+                                        type: contentType,
+                                        content: value
                                     };
                                 }
                             }).filter(element => element),
@@ -65,7 +66,7 @@ const scraperObject = {
                                 ) {
                                     return element.outerHTML.replace(/(\r\n\t|\n|\r|\t)/gm, "");
                                 }
-                            }).filter(element => element),
+                            }).filter(element => element).join(''),
                             'resources': Array.from(choice.querySelectorAll('ol')).map(element => {
                                 if (
                                     element.previousElementSibling &&
@@ -100,7 +101,7 @@ const scraperObject = {
         }
 
         let data = await scrapeCurrentPage();
-        this.fs.writeFile('./output/united-states/arizona.json', JSON.stringify(data, null, 4), err => {
+        this.fs.writeFile('./output/australia/western-australia.json', JSON.stringify(data, null, 4), err => {
             if (err) {
                 console.log(err);
             }
